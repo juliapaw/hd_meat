@@ -1,0 +1,2101 @@
+kod,zmienna,data,produkt,cena
+200000,DOLNOSLASKIE,2002,mieso wolowe z koscia (rostbef),11.02
+400000,KUJAWSKO-POMORSKIE,2002,mieso wolowe z koscia (rostbef),10.94
+600000,LUBELSKIE,2002,mieso wolowe z koscia (rostbef),10.54
+800000,LUBUSKIE,2002,mieso wolowe z koscia (rostbef),12.02
+1000000,LODZKIE,2002,mieso wolowe z koscia (rostbef),10.18
+1200000,MALOPOLSKIE,2002,mieso wolowe z koscia (rostbef),10.79
+1400000,MAZOWIECKIE,2002,mieso wolowe z koscia (rostbef),10.03
+1600000,OPOLSKIE,2002,mieso wolowe z koscia (rostbef),10.69
+1800000,PODKARPACKIE,2002,mieso wolowe z koscia (rostbef),11.20
+2000000,PODLASKIE,2002,mieso wolowe z koscia (rostbef),10.31
+200000,DOLNOSLASKIE,2003,mieso wolowe z koscia (rostbef),11.08
+400000,KUJAWSKO-POMORSKIE,2003,mieso wolowe z koscia (rostbef),10.83
+600000,LUBELSKIE,2003,mieso wolowe z koscia (rostbef),10.55
+800000,LUBUSKIE,2003,mieso wolowe z koscia (rostbef),12.23
+1000000,LODZKIE,2003,mieso wolowe z koscia (rostbef),10.26
+1200000,MALOPOLSKIE,2003,mieso wolowe z koscia (rostbef),10.78
+1400000,MAZOWIECKIE,2003,mieso wolowe z koscia (rostbef),10.25
+1600000,OPOLSKIE,2003,mieso wolowe z koscia (rostbef),10.79
+1800000,PODKARPACKIE,2003,mieso wolowe z koscia (rostbef),11.28
+2000000,PODLASKIE,2003,mieso wolowe z koscia (rostbef),10.12
+200000,DOLNOSLASKIE,2004,mieso wolowe z koscia (rostbef),13.69
+400000,KUJAWSKO-POMORSKIE,2004,mieso wolowe z koscia (rostbef),13.79
+600000,LUBELSKIE,2004,mieso wolowe z koscia (rostbef),13.13
+800000,LUBUSKIE,2004,mieso wolowe z koscia (rostbef),14.86
+1000000,LODZKIE,2004,mieso wolowe z koscia (rostbef),12.89
+1200000,MALOPOLSKIE,2004,mieso wolowe z koscia (rostbef),13.65
+1400000,MAZOWIECKIE,2004,mieso wolowe z koscia (rostbef),12.97
+1600000,OPOLSKIE,2004,mieso wolowe z koscia (rostbef),13.60
+1800000,PODKARPACKIE,2004,mieso wolowe z koscia (rostbef),14.72
+2000000,PODLASKIE,2004,mieso wolowe z koscia (rostbef),13.39
+200000,DOLNOSLASKIE,2005,mieso wolowe z koscia (rostbef),16.55
+400000,KUJAWSKO-POMORSKIE,2005,mieso wolowe z koscia (rostbef),17.36
+600000,LUBELSKIE,2005,mieso wolowe z koscia (rostbef),15.21
+800000,LUBUSKIE,2005,mieso wolowe z koscia (rostbef),16.66
+1000000,LODZKIE,2005,mieso wolowe z koscia (rostbef),15.40
+1200000,MALOPOLSKIE,2005,mieso wolowe z koscia (rostbef),15.75
+1400000,MAZOWIECKIE,2005,mieso wolowe z koscia (rostbef),15.79
+1600000,OPOLSKIE,2005,mieso wolowe z koscia (rostbef),16.21
+1800000,PODKARPACKIE,2005,mieso wolowe z koscia (rostbef),16.82
+2000000,PODLASKIE,2005,mieso wolowe z koscia (rostbef),17.54
+200000,DOLNOSLASKIE,2006,mieso wolowe z koscia (rostbef),17.32
+400000,KUJAWSKO-POMORSKIE,2006,mieso wolowe z koscia (rostbef),19.07
+600000,LUBELSKIE,2006,mieso wolowe z koscia (rostbef),16.27
+800000,LUBUSKIE,2006,mieso wolowe z koscia (rostbef),17.29
+1000000,LODZKIE,2006,mieso wolowe z koscia (rostbef),15.59
+1200000,MALOPOLSKIE,2006,mieso wolowe z koscia (rostbef),15.75
+1400000,MAZOWIECKIE,2006,mieso wolowe z koscia (rostbef),16.67
+1600000,OPOLSKIE,2006,mieso wolowe z koscia (rostbef),17.07
+1800000,PODKARPACKIE,2006,mieso wolowe z koscia (rostbef),17.44
+2000000,PODLASKIE,2006,mieso wolowe z koscia (rostbef),18.67
+200000,DOLNOSLASKIE,2007,mieso wolowe z koscia (rostbef),17.85
+400000,KUJAWSKO-POMORSKIE,2007,mieso wolowe z koscia (rostbef),19.76
+600000,LUBELSKIE,2007,mieso wolowe z koscia (rostbef),16.98
+800000,LUBUSKIE,2007,mieso wolowe z koscia (rostbef),17.84
+1000000,LODZKIE,2007,mieso wolowe z koscia (rostbef),15.80
+1200000,MALOPOLSKIE,2007,mieso wolowe z koscia (rostbef),16.34
+1400000,MAZOWIECKIE,2007,mieso wolowe z koscia (rostbef),16.03
+1600000,OPOLSKIE,2007,mieso wolowe z koscia (rostbef),17.91
+1800000,PODKARPACKIE,2007,mieso wolowe z koscia (rostbef),18.16
+2000000,PODLASKIE,2007,mieso wolowe z koscia (rostbef),16.18
+200000,DOLNOSLASKIE,2008,mieso wolowe z koscia (rostbef),18.54
+400000,KUJAWSKO-POMORSKIE,2008,mieso wolowe z koscia (rostbef),20.72
+600000,LUBELSKIE,2008,mieso wolowe z koscia (rostbef),18.25
+800000,LUBUSKIE,2008,mieso wolowe z koscia (rostbef),18.92
+1000000,LODZKIE,2008,mieso wolowe z koscia (rostbef),16.01
+1200000,MALOPOLSKIE,2008,mieso wolowe z koscia (rostbef),16.79
+1400000,MAZOWIECKIE,2008,mieso wolowe z koscia (rostbef),16.90
+1600000,OPOLSKIE,2008,mieso wolowe z koscia (rostbef),18.77
+1800000,PODKARPACKIE,2008,mieso wolowe z koscia (rostbef),19.16
+2000000,PODLASKIE,2008,mieso wolowe z koscia (rostbef),17.63
+200000,DOLNOSLASKIE,2009,mieso wolowe z koscia (rostbef),20.03
+400000,KUJAWSKO-POMORSKIE,2009,mieso wolowe z koscia (rostbef),23.60
+600000,LUBELSKIE,2009,mieso wolowe z koscia (rostbef),19.50
+800000,LUBUSKIE,2009,mieso wolowe z koscia (rostbef),20.88
+1000000,LODZKIE,2009,mieso wolowe z koscia (rostbef),17.78
+1200000,MALOPOLSKIE,2009,mieso wolowe z koscia (rostbef),18.45
+1400000,MAZOWIECKIE,2009,mieso wolowe z koscia (rostbef),18.42
+1600000,OPOLSKIE,2009,mieso wolowe z koscia (rostbef),18.85
+1800000,PODKARPACKIE,2009,mieso wolowe z koscia (rostbef),20.22
+2000000,PODLASKIE,2009,mieso wolowe z koscia (rostbef),18.28
+200000,DOLNOSLASKIE,2010,mieso wolowe z koscia (rostbef),20.14
+400000,KUJAWSKO-POMORSKIE,2010,mieso wolowe z koscia (rostbef),24.30
+600000,LUBELSKIE,2010,mieso wolowe z koscia (rostbef),21.49
+800000,LUBUSKIE,2010,mieso wolowe z koscia (rostbef),21.70
+1000000,LODZKIE,2010,mieso wolowe z koscia (rostbef),18.95
+1200000,MALOPOLSKIE,2010,mieso wolowe z koscia (rostbef),19.45
+1400000,MAZOWIECKIE,2010,mieso wolowe z koscia (rostbef),18.86
+1600000,OPOLSKIE,2010,mieso wolowe z koscia (rostbef),17.77
+1800000,PODKARPACKIE,2010,mieso wolowe z koscia (rostbef),20.45
+2000000,PODLASKIE,2010,mieso wolowe z koscia (rostbef),19.43
+200000,DOLNOSLASKIE,2011,mieso wolowe z koscia (rostbef),22.28
+400000,KUJAWSKO-POMORSKIE,2011,mieso wolowe z koscia (rostbef),26.19
+600000,LUBELSKIE,2011,mieso wolowe z koscia (rostbef),22.63
+800000,LUBUSKIE,2011,mieso wolowe z koscia (rostbef),22.86
+1000000,LODZKIE,2011,mieso wolowe z koscia (rostbef),20.66
+1200000,MALOPOLSKIE,2011,mieso wolowe z koscia (rostbef),21.01
+1400000,MAZOWIECKIE,2011,mieso wolowe z koscia (rostbef),20.77
+1600000,OPOLSKIE,2011,mieso wolowe z koscia (rostbef),20.36
+1800000,PODKARPACKIE,2011,mieso wolowe z koscia (rostbef),21.83
+2000000,PODLASKIE,2011,mieso wolowe z koscia (rostbef),21.82
+200000,DOLNOSLASKIE,2012,mieso wolowe z koscia (rostbef),25.33
+400000,KUJAWSKO-POMORSKIE,2012,mieso wolowe z koscia (rostbef),29.95
+600000,LUBELSKIE,2012,mieso wolowe z koscia (rostbef),25.49
+800000,LUBUSKIE,2012,mieso wolowe z koscia (rostbef),27.05
+1000000,LODZKIE,2012,mieso wolowe z koscia (rostbef),24.11
+1200000,MALOPOLSKIE,2012,mieso wolowe z koscia (rostbef),24.52
+1400000,MAZOWIECKIE,2012,mieso wolowe z koscia (rostbef),23.45
+1600000,OPOLSKIE,2012,mieso wolowe z koscia (rostbef),23.33
+1800000,PODKARPACKIE,2012,mieso wolowe z koscia (rostbef),24.42
+2000000,PODLASKIE,2012,mieso wolowe z koscia (rostbef),22.36
+200000,DOLNOSLASKIE,2013,mieso wolowe z koscia (rostbef),25.72
+400000,KUJAWSKO-POMORSKIE,2013,mieso wolowe z koscia (rostbef),30.44
+600000,LUBELSKIE,2013,mieso wolowe z koscia (rostbef),26.18
+800000,LUBUSKIE,2013,mieso wolowe z koscia (rostbef),29.27
+1000000,LODZKIE,2013,mieso wolowe z koscia (rostbef),24.09
+1200000,MALOPOLSKIE,2013,mieso wolowe z koscia (rostbef),25.53
+1400000,MAZOWIECKIE,2013,mieso wolowe z koscia (rostbef),24.37
+1600000,OPOLSKIE,2013,mieso wolowe z koscia (rostbef),24.05
+1800000,PODKARPACKIE,2013,mieso wolowe z koscia (rostbef),24.42
+2000000,PODLASKIE,2013,mieso wolowe z koscia (rostbef),23.25
+200000,DOLNOSLASKIE,2014,mieso wolowe z koscia (rostbef),25.46
+400000,KUJAWSKO-POMORSKIE,2014,mieso wolowe z koscia (rostbef),30.87
+600000,LUBELSKIE,2014,mieso wolowe z koscia (rostbef),25.79
+800000,LUBUSKIE,2014,mieso wolowe z koscia (rostbef),30.33
+1000000,LODZKIE,2014,mieso wolowe z koscia (rostbef),24.06
+1200000,MALOPOLSKIE,2014,mieso wolowe z koscia (rostbef),25.74
+1400000,MAZOWIECKIE,2014,mieso wolowe z koscia (rostbef),24.47
+1600000,OPOLSKIE,2014,mieso wolowe z koscia (rostbef),25.89
+1800000,PODKARPACKIE,2014,mieso wolowe z koscia (rostbef),24.21
+2000000,PODLASKIE,2014,mieso wolowe z koscia (rostbef),23.57
+200000,DOLNOSLASKIE,2015,mieso wolowe z koscia (rostbef),25.17
+400000,KUJAWSKO-POMORSKIE,2015,mieso wolowe z koscia (rostbef),29.96
+600000,LUBELSKIE,2015,mieso wolowe z koscia (rostbef),25.81
+800000,LUBUSKIE,2015,mieso wolowe z koscia (rostbef),30.34
+1000000,LODZKIE,2015,mieso wolowe z koscia (rostbef),23.68
+1200000,MALOPOLSKIE,2015,mieso wolowe z koscia (rostbef),25.27
+1400000,MAZOWIECKIE,2015,mieso wolowe z koscia (rostbef),23.82
+1600000,OPOLSKIE,2015,mieso wolowe z koscia (rostbef),25.27
+1800000,PODKARPACKIE,2015,mieso wolowe z koscia (rostbef),24.66
+2000000,PODLASKIE,2015,mieso wolowe z koscia (rostbef),22.21
+200000,DOLNOSLASKIE,2016,mieso wolowe z koscia (rostbef),25.02
+400000,KUJAWSKO-POMORSKIE,2016,mieso wolowe z koscia (rostbef),29.80
+600000,LUBELSKIE,2016,mieso wolowe z koscia (rostbef),25.09
+800000,LUBUSKIE,2016,mieso wolowe z koscia (rostbef),28.56
+1000000,LODZKIE,2016,mieso wolowe z koscia (rostbef),23.71
+1200000,MALOPOLSKIE,2016,mieso wolowe z koscia (rostbef),26.18
+1400000,MAZOWIECKIE,2016,mieso wolowe z koscia (rostbef),23.91
+1600000,OPOLSKIE,2016,mieso wolowe z koscia (rostbef),25.10
+1800000,PODKARPACKIE,2016,mieso wolowe z koscia (rostbef),25.05
+2000000,PODLASKIE,2016,mieso wolowe z koscia (rostbef),23.52
+200000,DOLNOSLASKIE,2017,mieso wolowe z koscia (rostbef),25.55
+400000,KUJAWSKO-POMORSKIE,2017,mieso wolowe z koscia (rostbef),29.80
+600000,LUBELSKIE,2017,mieso wolowe z koscia (rostbef),26.72
+800000,LUBUSKIE,2017,mieso wolowe z koscia (rostbef),29.11
+1000000,LODZKIE,2017,mieso wolowe z koscia (rostbef),24.69
+1200000,MALOPOLSKIE,2017,mieso wolowe z koscia (rostbef),27.08
+1400000,MAZOWIECKIE,2017,mieso wolowe z koscia (rostbef),25.04
+1600000,OPOLSKIE,2017,mieso wolowe z koscia (rostbef),26.07
+1800000,PODKARPACKIE,2017,mieso wolowe z koscia (rostbef),25.92
+2000000,PODLASKIE,2017,mieso wolowe z koscia (rostbef),25.57
+200000,DOLNOSLASKIE,2018,mieso wolowe z koscia (rostbef),26.47
+400000,KUJAWSKO-POMORSKIE,2018,mieso wolowe z koscia (rostbef),30.20
+600000,LUBELSKIE,2018,mieso wolowe z koscia (rostbef),29.10
+800000,LUBUSKIE,2018,mieso wolowe z koscia (rostbef),30.13
+1000000,LODZKIE,2018,mieso wolowe z koscia (rostbef),26.15
+1200000,MALOPOLSKIE,2018,mieso wolowe z koscia (rostbef),27.24
+1400000,MAZOWIECKIE,2018,mieso wolowe z koscia (rostbef),27.52
+1600000,OPOLSKIE,2018,mieso wolowe z koscia (rostbef),27.27
+1800000,PODKARPACKIE,2018,mieso wolowe z koscia (rostbef),26.75
+2000000,PODLASKIE,2018,mieso wolowe z koscia (rostbef),25.82
+200000,DOLNOSLASKIE,2019,mieso wolowe z koscia (rostbef),27.30
+400000,KUJAWSKO-POMORSKIE,2019,mieso wolowe z koscia (rostbef),31.19
+600000,LUBELSKIE,2019,mieso wolowe z koscia (rostbef),28.73
+800000,LUBUSKIE,2019,mieso wolowe z koscia (rostbef),29.56
+1000000,LODZKIE,2019,mieso wolowe z koscia (rostbef),26.03
+1200000,MALOPOLSKIE,2019,mieso wolowe z koscia (rostbef),27.85
+1400000,MAZOWIECKIE,2019,mieso wolowe z koscia (rostbef),27.39
+1600000,OPOLSKIE,2019,mieso wolowe z koscia (rostbef),28.00
+1800000,PODKARPACKIE,2019,mieso wolowe z koscia (rostbef),28.15
+2000000,PODLASKIE,2019,mieso wolowe z koscia (rostbef),25.76
+200000,DOLNOSLASKIE,2020,mieso wolowe z koscia (rostbef),29.36
+400000,KUJAWSKO-POMORSKIE,2020,mieso wolowe z koscia (rostbef),32.16
+600000,LUBELSKIE,2020,mieso wolowe z koscia (rostbef),29.02
+800000,LUBUSKIE,2020,mieso wolowe z koscia (rostbef),31.72
+1000000,LODZKIE,2020,mieso wolowe z koscia (rostbef),26.37
+1200000,MALOPOLSKIE,2020,mieso wolowe z koscia (rostbef),28.77
+1400000,MAZOWIECKIE,2020,mieso wolowe z koscia (rostbef),27.53
+1600000,OPOLSKIE,2020,mieso wolowe z koscia (rostbef),28.52
+1800000,PODKARPACKIE,2020,mieso wolowe z koscia (rostbef),28.78
+2000000,PODLASKIE,2020,mieso wolowe z koscia (rostbef),25.04
+200000,DOLNOSLASKIE,2021,mieso wolowe z koscia (rostbef),33.23
+400000,KUJAWSKO-POMORSKIE,2021,mieso wolowe z koscia (rostbef),35.61
+600000,LUBELSKIE,2021,mieso wolowe z koscia (rostbef),32.08
+800000,LUBUSKIE,2021,mieso wolowe z koscia (rostbef),30.97
+1000000,LODZKIE,2021,mieso wolowe z koscia (rostbef),27.82
+1200000,MALOPOLSKIE,2021,mieso wolowe z koscia (rostbef),30.09
+1400000,MAZOWIECKIE,2021,mieso wolowe z koscia (rostbef),28.86
+1600000,OPOLSKIE,2021,mieso wolowe z koscia (rostbef),30.95
+1800000,PODKARPACKIE,2021,mieso wolowe z koscia (rostbef),29.77
+2000000,PODLASKIE,2021,mieso wolowe z koscia (rostbef),25.93
+200000,DOLNOSLASKIE,2022,mieso wolowe z koscia (rostbef),42.61
+400000,KUJAWSKO-POMORSKIE,2022,mieso wolowe z koscia (rostbef),40.20
+600000,LUBELSKIE,2022,mieso wolowe z koscia (rostbef),42.84
+800000,LUBUSKIE,2022,mieso wolowe z koscia (rostbef),40.96
+1000000,LODZKIE,2022,mieso wolowe z koscia (rostbef),35.53
+1200000,MALOPOLSKIE,2022,mieso wolowe z koscia (rostbef),37.78
+1400000,MAZOWIECKIE,2022,mieso wolowe z koscia (rostbef),39.27
+1600000,OPOLSKIE,2022,mieso wolowe z koscia (rostbef),41.15
+1800000,PODKARPACKIE,2022,mieso wolowe z koscia (rostbef),36.44
+2000000,PODLASKIE,2022,mieso wolowe z koscia (rostbef),35.88
+200000,DOLNOSLASKIE,2002,kurczeta patroszone,4.74
+400000,KUJAWSKO-POMORSKIE,2002,kurczeta patroszone,4.84
+600000,LUBELSKIE,2002,kurczeta patroszone,5.02
+800000,LUBUSKIE,2002,kurczeta patroszone,4.80
+1000000,LODZKIE,2002,kurczeta patroszone,4.91
+1200000,MALOPOLSKIE,2002,kurczeta patroszone,5.04
+1400000,MAZOWIECKIE,2002,kurczeta patroszone,5.18
+1600000,OPOLSKIE,2002,kurczeta patroszone,4.81
+1800000,PODKARPACKIE,2002,kurczeta patroszone,5.08
+2000000,PODLASKIE,2002,kurczeta patroszone,5.07
+200000,DOLNOSLASKIE,2003,kurczeta patroszone,4.99
+400000,KUJAWSKO-POMORSKIE,2003,kurczeta patroszone,4.99
+600000,LUBELSKIE,2003,kurczeta patroszone,5.13
+800000,LUBUSKIE,2003,kurczeta patroszone,4.91
+1000000,LODZKIE,2003,kurczeta patroszone,5.11
+1200000,MALOPOLSKIE,2003,kurczeta patroszone,5.25
+1400000,MAZOWIECKIE,2003,kurczeta patroszone,5.25
+1600000,OPOLSKIE,2003,kurczeta patroszone,5.01
+1800000,PODKARPACKIE,2003,kurczeta patroszone,5.32
+2000000,PODLASKIE,2003,kurczeta patroszone,5.18
+200000,DOLNOSLASKIE,2004,kurczeta patroszone,5.59
+400000,KUJAWSKO-POMORSKIE,2004,kurczeta patroszone,5.58
+600000,LUBELSKIE,2004,kurczeta patroszone,5.81
+800000,LUBUSKIE,2004,kurczeta patroszone,5.55
+1000000,LODZKIE,2004,kurczeta patroszone,5.72
+1200000,MALOPOLSKIE,2004,kurczeta patroszone,5.81
+1400000,MAZOWIECKIE,2004,kurczeta patroszone,5.93
+1600000,OPOLSKIE,2004,kurczeta patroszone,5.57
+1800000,PODKARPACKIE,2004,kurczeta patroszone,5.91
+2000000,PODLASKIE,2004,kurczeta patroszone,5.70
+200000,DOLNOSLASKIE,2005,kurczeta patroszone,5.53
+400000,KUJAWSKO-POMORSKIE,2005,kurczeta patroszone,5.45
+600000,LUBELSKIE,2005,kurczeta patroszone,5.69
+800000,LUBUSKIE,2005,kurczeta patroszone,5.41
+1000000,LODZKIE,2005,kurczeta patroszone,5.61
+1200000,MALOPOLSKIE,2005,kurczeta patroszone,5.77
+1400000,MAZOWIECKIE,2005,kurczeta patroszone,5.92
+1600000,OPOLSKIE,2005,kurczeta patroszone,5.56
+1800000,PODKARPACKIE,2005,kurczeta patroszone,5.83
+2000000,PODLASKIE,2005,kurczeta patroszone,5.56
+200000,DOLNOSLASKIE,2006,kurczeta patroszone,4.75
+400000,KUJAWSKO-POMORSKIE,2006,kurczeta patroszone,4.75
+600000,LUBELSKIE,2006,kurczeta patroszone,5.00
+800000,LUBUSKIE,2006,kurczeta patroszone,4.79
+1000000,LODZKIE,2006,kurczeta patroszone,4.99
+1200000,MALOPOLSKIE,2006,kurczeta patroszone,5.18
+1400000,MAZOWIECKIE,2006,kurczeta patroszone,5.16
+1600000,OPOLSKIE,2006,kurczeta patroszone,4.79
+1800000,PODKARPACKIE,2006,kurczeta patroszone,4.93
+2000000,PODLASKIE,2006,kurczeta patroszone,4.95
+200000,DOLNOSLASKIE,2007,kurczeta patroszone,6.28
+400000,KUJAWSKO-POMORSKIE,2007,kurczeta patroszone,6.24
+600000,LUBELSKIE,2007,kurczeta patroszone,6.24
+800000,LUBUSKIE,2007,kurczeta patroszone,6.27
+1000000,LODZKIE,2007,kurczeta patroszone,6.44
+1200000,MALOPOLSKIE,2007,kurczeta patroszone,6.33
+1400000,MAZOWIECKIE,2007,kurczeta patroszone,6.49
+1600000,OPOLSKIE,2007,kurczeta patroszone,6.19
+1800000,PODKARPACKIE,2007,kurczeta patroszone,6.38
+2000000,PODLASKIE,2007,kurczeta patroszone,6.37
+200000,DOLNOSLASKIE,2008,kurczeta patroszone,6.16
+400000,KUJAWSKO-POMORSKIE,2008,kurczeta patroszone,6.09
+600000,LUBELSKIE,2008,kurczeta patroszone,6.15
+800000,LUBUSKIE,2008,kurczeta patroszone,6.13
+1000000,LODZKIE,2008,kurczeta patroszone,6.30
+1200000,MALOPOLSKIE,2008,kurczeta patroszone,6.40
+1400000,MAZOWIECKIE,2008,kurczeta patroszone,6.40
+1600000,OPOLSKIE,2008,kurczeta patroszone,6.09
+1800000,PODKARPACKIE,2008,kurczeta patroszone,6.29
+2000000,PODLASKIE,2008,kurczeta patroszone,6.19
+200000,DOLNOSLASKIE,2009,kurczeta patroszone,6.83
+400000,KUJAWSKO-POMORSKIE,2009,kurczeta patroszone,6.76
+600000,LUBELSKIE,2009,kurczeta patroszone,6.84
+800000,LUBUSKIE,2009,kurczeta patroszone,6.70
+1000000,LODZKIE,2009,kurczeta patroszone,6.92
+1200000,MALOPOLSKIE,2009,kurczeta patroszone,7.03
+1400000,MAZOWIECKIE,2009,kurczeta patroszone,7.14
+1600000,OPOLSKIE,2009,kurczeta patroszone,6.75
+1800000,PODKARPACKIE,2009,kurczeta patroszone,7.03
+2000000,PODLASKIE,2009,kurczeta patroszone,6.86
+200000,DOLNOSLASKIE,2010,kurczeta patroszone,6.33
+400000,KUJAWSKO-POMORSKIE,2010,kurczeta patroszone,6.23
+600000,LUBELSKIE,2010,kurczeta patroszone,6.51
+800000,LUBUSKIE,2010,kurczeta patroszone,6.30
+1000000,LODZKIE,2010,kurczeta patroszone,6.27
+1200000,MALOPOLSKIE,2010,kurczeta patroszone,6.46
+1400000,MAZOWIECKIE,2010,kurczeta patroszone,6.60
+1600000,OPOLSKIE,2010,kurczeta patroszone,6.05
+1800000,PODKARPACKIE,2010,kurczeta patroszone,6.49
+2000000,PODLASKIE,2010,kurczeta patroszone,6.24
+200000,DOLNOSLASKIE,2011,kurczeta patroszone,7.17
+400000,KUJAWSKO-POMORSKIE,2011,kurczeta patroszone,7.05
+600000,LUBELSKIE,2011,kurczeta patroszone,7.44
+800000,LUBUSKIE,2011,kurczeta patroszone,7.01
+1000000,LODZKIE,2011,kurczeta patroszone,7.26
+1200000,MALOPOLSKIE,2011,kurczeta patroszone,7.29
+1400000,MAZOWIECKIE,2011,kurczeta patroszone,7.49
+1600000,OPOLSKIE,2011,kurczeta patroszone,7.05
+1800000,PODKARPACKIE,2011,kurczeta patroszone,7.50
+2000000,PODLASKIE,2011,kurczeta patroszone,7.17
+200000,DOLNOSLASKIE,2012,kurczeta patroszone,7.40
+400000,KUJAWSKO-POMORSKIE,2012,kurczeta patroszone,7.45
+600000,LUBELSKIE,2012,kurczeta patroszone,7.71
+800000,LUBUSKIE,2012,kurczeta patroszone,7.56
+1000000,LODZKIE,2012,kurczeta patroszone,7.49
+1200000,MALOPOLSKIE,2012,kurczeta patroszone,7.62
+1400000,MAZOWIECKIE,2012,kurczeta patroszone,7.73
+1600000,OPOLSKIE,2012,kurczeta patroszone,7.45
+1800000,PODKARPACKIE,2012,kurczeta patroszone,7.71
+2000000,PODLASKIE,2012,kurczeta patroszone,7.42
+200000,DOLNOSLASKIE,2013,kurczeta patroszone,7.34
+400000,KUJAWSKO-POMORSKIE,2013,kurczeta patroszone,7.51
+600000,LUBELSKIE,2013,kurczeta patroszone,7.91
+800000,LUBUSKIE,2013,kurczeta patroszone,7.23
+1000000,LODZKIE,2013,kurczeta patroszone,7.52
+1200000,MALOPOLSKIE,2013,kurczeta patroszone,7.68
+1400000,MAZOWIECKIE,2013,kurczeta patroszone,7.79
+1600000,OPOLSKIE,2013,kurczeta patroszone,7.51
+1800000,PODKARPACKIE,2013,kurczeta patroszone,7.73
+2000000,PODLASKIE,2013,kurczeta patroszone,7.45
+200000,DOLNOSLASKIE,2014,kurczeta patroszone,7.06
+400000,KUJAWSKO-POMORSKIE,2014,kurczeta patroszone,7.33
+600000,LUBELSKIE,2014,kurczeta patroszone,7.55
+800000,LUBUSKIE,2014,kurczeta patroszone,7.13
+1000000,LODZKIE,2014,kurczeta patroszone,7.29
+1200000,MALOPOLSKIE,2014,kurczeta patroszone,7.47
+1400000,MAZOWIECKIE,2014,kurczeta patroszone,7.55
+1600000,OPOLSKIE,2014,kurczeta patroszone,7.14
+1800000,PODKARPACKIE,2014,kurczeta patroszone,7.41
+2000000,PODLASKIE,2014,kurczeta patroszone,7.23
+200000,DOLNOSLASKIE,2015,kurczeta patroszone,6.84
+400000,KUJAWSKO-POMORSKIE,2015,kurczeta patroszone,7.10
+600000,LUBELSKIE,2015,kurczeta patroszone,7.17
+800000,LUBUSKIE,2015,kurczeta patroszone,7.05
+1000000,LODZKIE,2015,kurczeta patroszone,6.88
+1200000,MALOPOLSKIE,2015,kurczeta patroszone,7.02
+1400000,MAZOWIECKIE,2015,kurczeta patroszone,7.21
+1600000,OPOLSKIE,2015,kurczeta patroszone,6.87
+1800000,PODKARPACKIE,2015,kurczeta patroszone,7.04
+2000000,PODLASKIE,2015,kurczeta patroszone,6.93
+200000,DOLNOSLASKIE,2016,kurczeta patroszone,6.76
+400000,KUJAWSKO-POMORSKIE,2016,kurczeta patroszone,7.06
+600000,LUBELSKIE,2016,kurczeta patroszone,6.90
+800000,LUBUSKIE,2016,kurczeta patroszone,7.09
+1000000,LODZKIE,2016,kurczeta patroszone,6.85
+1200000,MALOPOLSKIE,2016,kurczeta patroszone,6.94
+1400000,MAZOWIECKIE,2016,kurczeta patroszone,7.01
+1600000,OPOLSKIE,2016,kurczeta patroszone,6.49
+1800000,PODKARPACKIE,2016,kurczeta patroszone,6.88
+2000000,PODLASKIE,2016,kurczeta patroszone,6.54
+200000,DOLNOSLASKIE,2017,kurczeta patroszone,6.88
+400000,KUJAWSKO-POMORSKIE,2017,kurczeta patroszone,7.16
+600000,LUBELSKIE,2017,kurczeta patroszone,6.91
+800000,LUBUSKIE,2017,kurczeta patroszone,7.19
+1000000,LODZKIE,2017,kurczeta patroszone,6.88
+1200000,MALOPOLSKIE,2017,kurczeta patroszone,7.10
+1400000,MAZOWIECKIE,2017,kurczeta patroszone,7.21
+1600000,OPOLSKIE,2017,kurczeta patroszone,6.65
+1800000,PODKARPACKIE,2017,kurczeta patroszone,6.91
+2000000,PODLASKIE,2017,kurczeta patroszone,6.71
+200000,DOLNOSLASKIE,2018,kurczeta patroszone,7.33
+400000,KUJAWSKO-POMORSKIE,2018,kurczeta patroszone,7.38
+600000,LUBELSKIE,2018,kurczeta patroszone,7.17
+800000,LUBUSKIE,2018,kurczeta patroszone,7.42
+1000000,LODZKIE,2018,kurczeta patroszone,7.15
+1200000,MALOPOLSKIE,2018,kurczeta patroszone,7.50
+1400000,MAZOWIECKIE,2018,kurczeta patroszone,7.59
+1600000,OPOLSKIE,2018,kurczeta patroszone,6.91
+1800000,PODKARPACKIE,2018,kurczeta patroszone,7.30
+2000000,PODLASKIE,2018,kurczeta patroszone,6.74
+200000,DOLNOSLASKIE,2019,kurczeta patroszone,7.72
+400000,KUJAWSKO-POMORSKIE,2019,kurczeta patroszone,7.99
+600000,LUBELSKIE,2019,kurczeta patroszone,7.76
+800000,LUBUSKIE,2019,kurczeta patroszone,7.76
+1000000,LODZKIE,2019,kurczeta patroszone,7.21
+1200000,MALOPOLSKIE,2019,kurczeta patroszone,7.56
+1400000,MAZOWIECKIE,2019,kurczeta patroszone,7.69
+1600000,OPOLSKIE,2019,kurczeta patroszone,7.09
+1800000,PODKARPACKIE,2019,kurczeta patroszone,7.39
+2000000,PODLASKIE,2019,kurczeta patroszone,6.80
+200000,DOLNOSLASKIE,2020,kurczeta patroszone,7.61
+400000,KUJAWSKO-POMORSKIE,2020,kurczeta patroszone,7.98
+600000,LUBELSKIE,2020,kurczeta patroszone,7.36
+800000,LUBUSKIE,2020,kurczeta patroszone,7.68
+1000000,LODZKIE,2020,kurczeta patroszone,6.89
+1200000,MALOPOLSKIE,2020,kurczeta patroszone,8.11
+1400000,MAZOWIECKIE,2020,kurczeta patroszone,7.40
+1600000,OPOLSKIE,2020,kurczeta patroszone,6.74
+1800000,PODKARPACKIE,2020,kurczeta patroszone,7.33
+2000000,PODLASKIE,2020,kurczeta patroszone,6.58
+200000,DOLNOSLASKIE,2021,kurczeta patroszone,8.92
+400000,KUJAWSKO-POMORSKIE,2021,kurczeta patroszone,9.40
+600000,LUBELSKIE,2021,kurczeta patroszone,8.15
+800000,LUBUSKIE,2021,kurczeta patroszone,8.40
+1000000,LODZKIE,2021,kurczeta patroszone,8.15
+1200000,MALOPOLSKIE,2021,kurczeta patroszone,9.74
+1400000,MAZOWIECKIE,2021,kurczeta patroszone,8.58
+1600000,OPOLSKIE,2021,kurczeta patroszone,8.41
+1800000,PODKARPACKIE,2021,kurczeta patroszone,8.34
+2000000,PODLASKIE,2021,kurczeta patroszone,7.90
+200000,DOLNOSLASKIE,2022,kurczeta patroszone,12.46
+400000,KUJAWSKO-POMORSKIE,2022,kurczeta patroszone,12.39
+600000,LUBELSKIE,2022,kurczeta patroszone,10.80
+800000,LUBUSKIE,2022,kurczeta patroszone,12.04
+1000000,LODZKIE,2022,kurczeta patroszone,11.30
+1200000,MALOPOLSKIE,2022,kurczeta patroszone,13.20
+1400000,MAZOWIECKIE,2022,kurczeta patroszone,11.45
+1600000,OPOLSKIE,2022,kurczeta patroszone,11.41
+1800000,PODKARPACKIE,2022,kurczeta patroszone,11.67
+2000000,PODLASKIE,2022,kurczeta patroszone,11.63
+200000,DOLNOSLASKIE,2002,szynka wieprzowa gotowana,19.47
+400000,KUJAWSKO-POMORSKIE,2002,szynka wieprzowa gotowana,19.68
+600000,LUBELSKIE,2002,szynka wieprzowa gotowana,19.28
+800000,LUBUSKIE,2002,szynka wieprzowa gotowana,20.97
+1000000,LODZKIE,2002,szynka wieprzowa gotowana,19.87
+1200000,MALOPOLSKIE,2002,szynka wieprzowa gotowana,19.56
+1400000,MAZOWIECKIE,2002,szynka wieprzowa gotowana,20.36
+1600000,OPOLSKIE,2002,szynka wieprzowa gotowana,19.61
+1800000,PODKARPACKIE,2002,szynka wieprzowa gotowana,17.85
+2000000,PODLASKIE,2002,szynka wieprzowa gotowana,19.77
+200000,DOLNOSLASKIE,2003,szynka wieprzowa gotowana,18.42
+400000,KUJAWSKO-POMORSKIE,2003,szynka wieprzowa gotowana,17.99
+600000,LUBELSKIE,2003,szynka wieprzowa gotowana,17.59
+800000,LUBUSKIE,2003,szynka wieprzowa gotowana,19.38
+1000000,LODZKIE,2003,szynka wieprzowa gotowana,18.13
+1200000,MALOPOLSKIE,2003,szynka wieprzowa gotowana,18.09
+1400000,MAZOWIECKIE,2003,szynka wieprzowa gotowana,18.93
+1600000,OPOLSKIE,2003,szynka wieprzowa gotowana,18.67
+1800000,PODKARPACKIE,2003,szynka wieprzowa gotowana,17.08
+2000000,PODLASKIE,2003,szynka wieprzowa gotowana,19.75
+200000,DOLNOSLASKIE,2004,szynka wieprzowa gotowana,19.78
+400000,KUJAWSKO-POMORSKIE,2004,szynka wieprzowa gotowana,19.73
+600000,LUBELSKIE,2004,szynka wieprzowa gotowana,19.05
+800000,LUBUSKIE,2004,szynka wieprzowa gotowana,21.38
+1000000,LODZKIE,2004,szynka wieprzowa gotowana,19.57
+1200000,MALOPOLSKIE,2004,szynka wieprzowa gotowana,19.29
+1400000,MAZOWIECKIE,2004,szynka wieprzowa gotowana,20.12
+1600000,OPOLSKIE,2004,szynka wieprzowa gotowana,19.80
+1800000,PODKARPACKIE,2004,szynka wieprzowa gotowana,18.90
+2000000,PODLASKIE,2004,szynka wieprzowa gotowana,20.04
+200000,DOLNOSLASKIE,2005,szynka wieprzowa gotowana,20.46
+400000,KUJAWSKO-POMORSKIE,2005,szynka wieprzowa gotowana,19.78
+600000,LUBELSKIE,2005,szynka wieprzowa gotowana,19.08
+800000,LUBUSKIE,2005,szynka wieprzowa gotowana,21.34
+1000000,LODZKIE,2005,szynka wieprzowa gotowana,19.78
+1200000,MALOPOLSKIE,2005,szynka wieprzowa gotowana,19.89
+1400000,MAZOWIECKIE,2005,szynka wieprzowa gotowana,19.91
+1600000,OPOLSKIE,2005,szynka wieprzowa gotowana,19.91
+1800000,PODKARPACKIE,2005,szynka wieprzowa gotowana,18.20
+2000000,PODLASKIE,2005,szynka wieprzowa gotowana,19.80
+200000,DOLNOSLASKIE,2006,szynka wieprzowa gotowana,20.86
+400000,KUJAWSKO-POMORSKIE,2006,szynka wieprzowa gotowana,19.65
+600000,LUBELSKIE,2006,szynka wieprzowa gotowana,18.12
+800000,LUBUSKIE,2006,szynka wieprzowa gotowana,20.21
+1000000,LODZKIE,2006,szynka wieprzowa gotowana,19.10
+1200000,MALOPOLSKIE,2006,szynka wieprzowa gotowana,18.38
+1400000,MAZOWIECKIE,2006,szynka wieprzowa gotowana,20.17
+1600000,OPOLSKIE,2006,szynka wieprzowa gotowana,21.05
+1800000,PODKARPACKIE,2006,szynka wieprzowa gotowana,17.02
+2000000,PODLASKIE,2006,szynka wieprzowa gotowana,19.03
+200000,DOLNOSLASKIE,2007,szynka wieprzowa gotowana,20.98
+400000,KUJAWSKO-POMORSKIE,2007,szynka wieprzowa gotowana,20.18
+600000,LUBELSKIE,2007,szynka wieprzowa gotowana,18.34
+800000,LUBUSKIE,2007,szynka wieprzowa gotowana,20.75
+1000000,LODZKIE,2007,szynka wieprzowa gotowana,19.34
+1200000,MALOPOLSKIE,2007,szynka wieprzowa gotowana,18.46
+1400000,MAZOWIECKIE,2007,szynka wieprzowa gotowana,20.14
+1600000,OPOLSKIE,2007,szynka wieprzowa gotowana,21.23
+1800000,PODKARPACKIE,2007,szynka wieprzowa gotowana,17.50
+2000000,PODLASKIE,2007,szynka wieprzowa gotowana,19.91
+200000,DOLNOSLASKIE,2008,szynka wieprzowa gotowana,21.44
+400000,KUJAWSKO-POMORSKIE,2008,szynka wieprzowa gotowana,21.34
+600000,LUBELSKIE,2008,szynka wieprzowa gotowana,18.51
+800000,LUBUSKIE,2008,szynka wieprzowa gotowana,21.39
+1000000,LODZKIE,2008,szynka wieprzowa gotowana,19.97
+1200000,MALOPOLSKIE,2008,szynka wieprzowa gotowana,19.43
+1400000,MAZOWIECKIE,2008,szynka wieprzowa gotowana,20.73
+1600000,OPOLSKIE,2008,szynka wieprzowa gotowana,22.80
+1800000,PODKARPACKIE,2008,szynka wieprzowa gotowana,18.56
+2000000,PODLASKIE,2008,szynka wieprzowa gotowana,19.82
+200000,DOLNOSLASKIE,2009,szynka wieprzowa gotowana,23.01
+400000,KUJAWSKO-POMORSKIE,2009,szynka wieprzowa gotowana,22.80
+600000,LUBELSKIE,2009,szynka wieprzowa gotowana,19.96
+800000,LUBUSKIE,2009,szynka wieprzowa gotowana,22.26
+1000000,LODZKIE,2009,szynka wieprzowa gotowana,21.33
+1200000,MALOPOLSKIE,2009,szynka wieprzowa gotowana,20.49
+1400000,MAZOWIECKIE,2009,szynka wieprzowa gotowana,22.25
+1600000,OPOLSKIE,2009,szynka wieprzowa gotowana,24.10
+1800000,PODKARPACKIE,2009,szynka wieprzowa gotowana,19.48
+2000000,PODLASKIE,2009,szynka wieprzowa gotowana,21.22
+200000,DOLNOSLASKIE,2010,szynka wieprzowa gotowana,23.39
+400000,KUJAWSKO-POMORSKIE,2010,szynka wieprzowa gotowana,22.45
+600000,LUBELSKIE,2010,szynka wieprzowa gotowana,19.69
+800000,LUBUSKIE,2010,szynka wieprzowa gotowana,22.91
+1000000,LODZKIE,2010,szynka wieprzowa gotowana,20.58
+1200000,MALOPOLSKIE,2010,szynka wieprzowa gotowana,20.89
+1400000,MAZOWIECKIE,2010,szynka wieprzowa gotowana,22.45
+1600000,OPOLSKIE,2010,szynka wieprzowa gotowana,24.17
+1800000,PODKARPACKIE,2010,szynka wieprzowa gotowana,18.71
+2000000,PODLASKIE,2010,szynka wieprzowa gotowana,20.09
+200000,DOLNOSLASKIE,2011,szynka wieprzowa gotowana,23.44
+400000,KUJAWSKO-POMORSKIE,2011,szynka wieprzowa gotowana,22.30
+600000,LUBELSKIE,2011,szynka wieprzowa gotowana,20.57
+800000,LUBUSKIE,2011,szynka wieprzowa gotowana,22.28
+1000000,LODZKIE,2011,szynka wieprzowa gotowana,21.99
+1200000,MALOPOLSKIE,2011,szynka wieprzowa gotowana,21.26
+1400000,MAZOWIECKIE,2011,szynka wieprzowa gotowana,23.70
+1600000,OPOLSKIE,2011,szynka wieprzowa gotowana,26.09
+1800000,PODKARPACKIE,2011,szynka wieprzowa gotowana,19.03
+2000000,PODLASKIE,2011,szynka wieprzowa gotowana,21.05
+200000,DOLNOSLASKIE,2012,szynka wieprzowa gotowana,24.75
+400000,KUJAWSKO-POMORSKIE,2012,szynka wieprzowa gotowana,23.91
+600000,LUBELSKIE,2012,szynka wieprzowa gotowana,21.18
+800000,LUBUSKIE,2012,szynka wieprzowa gotowana,22.95
+1000000,LODZKIE,2012,szynka wieprzowa gotowana,23.34
+1200000,MALOPOLSKIE,2012,szynka wieprzowa gotowana,21.85
+1400000,MAZOWIECKIE,2012,szynka wieprzowa gotowana,24.79
+1600000,OPOLSKIE,2012,szynka wieprzowa gotowana,27.55
+1800000,PODKARPACKIE,2012,szynka wieprzowa gotowana,20.65
+2000000,PODLASKIE,2012,szynka wieprzowa gotowana,23.42
+200000,DOLNOSLASKIE,2013,szynka wieprzowa gotowana,25.60
+400000,KUJAWSKO-POMORSKIE,2013,szynka wieprzowa gotowana,24.70
+600000,LUBELSKIE,2013,szynka wieprzowa gotowana,22.47
+800000,LUBUSKIE,2013,szynka wieprzowa gotowana,23.43
+1000000,LODZKIE,2013,szynka wieprzowa gotowana,23.85
+1200000,MALOPOLSKIE,2013,szynka wieprzowa gotowana,22.18
+1400000,MAZOWIECKIE,2013,szynka wieprzowa gotowana,24.54
+1600000,OPOLSKIE,2013,szynka wieprzowa gotowana,28.15
+1800000,PODKARPACKIE,2013,szynka wieprzowa gotowana,22.69
+2000000,PODLASKIE,2013,szynka wieprzowa gotowana,23.60
+200000,DOLNOSLASKIE,2014,szynka wieprzowa gotowana,25.54
+400000,KUJAWSKO-POMORSKIE,2014,szynka wieprzowa gotowana,25.39
+600000,LUBELSKIE,2014,szynka wieprzowa gotowana,22.97
+800000,LUBUSKIE,2014,szynka wieprzowa gotowana,25.00
+1000000,LODZKIE,2014,szynka wieprzowa gotowana,24.19
+1200000,MALOPOLSKIE,2014,szynka wieprzowa gotowana,22.55
+1400000,MAZOWIECKIE,2014,szynka wieprzowa gotowana,24.34
+1600000,OPOLSKIE,2014,szynka wieprzowa gotowana,27.65
+1800000,PODKARPACKIE,2014,szynka wieprzowa gotowana,22.84
+2000000,PODLASKIE,2014,szynka wieprzowa gotowana,23.41
+200000,DOLNOSLASKIE,2015,szynka wieprzowa gotowana,24.82
+400000,KUJAWSKO-POMORSKIE,2015,szynka wieprzowa gotowana,24.65
+600000,LUBELSKIE,2015,szynka wieprzowa gotowana,22.00
+800000,LUBUSKIE,2015,szynka wieprzowa gotowana,26.15
+1000000,LODZKIE,2015,szynka wieprzowa gotowana,23.73
+1200000,MALOPOLSKIE,2015,szynka wieprzowa gotowana,23.18
+1400000,MAZOWIECKIE,2015,szynka wieprzowa gotowana,23.71
+1600000,OPOLSKIE,2015,szynka wieprzowa gotowana,26.66
+1800000,PODKARPACKIE,2015,szynka wieprzowa gotowana,22.57
+2000000,PODLASKIE,2015,szynka wieprzowa gotowana,24.04
+200000,DOLNOSLASKIE,2016,szynka wieprzowa gotowana,25.14
+400000,KUJAWSKO-POMORSKIE,2016,szynka wieprzowa gotowana,25.72
+600000,LUBELSKIE,2016,szynka wieprzowa gotowana,21.76
+800000,LUBUSKIE,2016,szynka wieprzowa gotowana,26.04
+1000000,LODZKIE,2016,szynka wieprzowa gotowana,23.94
+1200000,MALOPOLSKIE,2016,szynka wieprzowa gotowana,24.75
+1400000,MAZOWIECKIE,2016,szynka wieprzowa gotowana,23.93
+1600000,OPOLSKIE,2016,szynka wieprzowa gotowana,25.09
+1800000,PODKARPACKIE,2016,szynka wieprzowa gotowana,22.91
+2000000,PODLASKIE,2016,szynka wieprzowa gotowana,22.24
+200000,DOLNOSLASKIE,2017,szynka wieprzowa gotowana,26.43
+400000,KUJAWSKO-POMORSKIE,2017,szynka wieprzowa gotowana,27.34
+600000,LUBELSKIE,2017,szynka wieprzowa gotowana,21.82
+800000,LUBUSKIE,2017,szynka wieprzowa gotowana,27.25
+1000000,LODZKIE,2017,szynka wieprzowa gotowana,26.51
+1200000,MALOPOLSKIE,2017,szynka wieprzowa gotowana,25.55
+1400000,MAZOWIECKIE,2017,szynka wieprzowa gotowana,24.69
+1600000,OPOLSKIE,2017,szynka wieprzowa gotowana,25.73
+1800000,PODKARPACKIE,2017,szynka wieprzowa gotowana,22.97
+2000000,PODLASKIE,2017,szynka wieprzowa gotowana,23.47
+200000,DOLNOSLASKIE,2018,szynka wieprzowa gotowana,27.92
+400000,KUJAWSKO-POMORSKIE,2018,szynka wieprzowa gotowana,28.40
+600000,LUBELSKIE,2018,szynka wieprzowa gotowana,22.83
+800000,LUBUSKIE,2018,szynka wieprzowa gotowana,28.88
+1000000,LODZKIE,2018,szynka wieprzowa gotowana,26.71
+1200000,MALOPOLSKIE,2018,szynka wieprzowa gotowana,26.29
+1400000,MAZOWIECKIE,2018,szynka wieprzowa gotowana,25.97
+1600000,OPOLSKIE,2018,szynka wieprzowa gotowana,27.76
+1800000,PODKARPACKIE,2018,szynka wieprzowa gotowana,23.22
+2000000,PODLASKIE,2018,szynka wieprzowa gotowana,23.33
+200000,DOLNOSLASKIE,2019,szynka wieprzowa gotowana,29.71
+400000,KUJAWSKO-POMORSKIE,2019,szynka wieprzowa gotowana,31.32
+600000,LUBELSKIE,2019,szynka wieprzowa gotowana,25.96
+800000,LUBUSKIE,2019,szynka wieprzowa gotowana,27.42
+1000000,LODZKIE,2019,szynka wieprzowa gotowana,28.54
+1200000,MALOPOLSKIE,2019,szynka wieprzowa gotowana,25.93
+1400000,MAZOWIECKIE,2019,szynka wieprzowa gotowana,28.15
+1600000,OPOLSKIE,2019,szynka wieprzowa gotowana,29.85
+1800000,PODKARPACKIE,2019,szynka wieprzowa gotowana,24.19
+2000000,PODLASKIE,2019,szynka wieprzowa gotowana,25.44
+200000,DOLNOSLASKIE,2020,szynka wieprzowa gotowana,32.76
+400000,KUJAWSKO-POMORSKIE,2020,szynka wieprzowa gotowana,34.12
+600000,LUBELSKIE,2020,szynka wieprzowa gotowana,29.97
+800000,LUBUSKIE,2020,szynka wieprzowa gotowana,30.69
+1000000,LODZKIE,2020,szynka wieprzowa gotowana,31.54
+1200000,MALOPOLSKIE,2020,szynka wieprzowa gotowana,30.31
+1400000,MAZOWIECKIE,2020,szynka wieprzowa gotowana,30.96
+1600000,OPOLSKIE,2020,szynka wieprzowa gotowana,32.13
+1800000,PODKARPACKIE,2020,szynka wieprzowa gotowana,27.13
+2000000,PODLASKIE,2020,szynka wieprzowa gotowana,29.83
+200000,DOLNOSLASKIE,2021,szynka wieprzowa gotowana,32.47
+400000,KUJAWSKO-POMORSKIE,2021,szynka wieprzowa gotowana,35.11
+600000,LUBELSKIE,2021,szynka wieprzowa gotowana,30.74
+800000,LUBUSKIE,2021,szynka wieprzowa gotowana,30.02
+1000000,LODZKIE,2021,szynka wieprzowa gotowana,30.63
+1200000,MALOPOLSKIE,2021,szynka wieprzowa gotowana,31.07
+1400000,MAZOWIECKIE,2021,szynka wieprzowa gotowana,31.34
+1600000,OPOLSKIE,2021,szynka wieprzowa gotowana,33.85
+1800000,PODKARPACKIE,2021,szynka wieprzowa gotowana,28.15
+2000000,PODLASKIE,2021,szynka wieprzowa gotowana,28.55
+200000,DOLNOSLASKIE,2022,szynka wieprzowa gotowana,34.41
+400000,KUJAWSKO-POMORSKIE,2022,szynka wieprzowa gotowana,38.35
+600000,LUBELSKIE,2022,szynka wieprzowa gotowana,33.78
+800000,LUBUSKIE,2022,szynka wieprzowa gotowana,34.61
+1000000,LODZKIE,2022,szynka wieprzowa gotowana,36.01
+1200000,MALOPOLSKIE,2022,szynka wieprzowa gotowana,32.93
+1400000,MAZOWIECKIE,2022,szynka wieprzowa gotowana,34.81
+1600000,OPOLSKIE,2022,szynka wieprzowa gotowana,37.62
+1800000,PODKARPACKIE,2022,szynka wieprzowa gotowana,31.24
+2000000,PODLASKIE,2022,szynka wieprzowa gotowana,31.62
+200000,DOLNOSLASKIE,2002,baleron gotowany,17.44
+400000,KUJAWSKO-POMORSKIE,2002,baleron gotowany,18.26
+600000,LUBELSKIE,2002,baleron gotowany,17.87
+800000,LUBUSKIE,2002,baleron gotowany,18.46
+1000000,LODZKIE,2002,baleron gotowany,17.89
+1200000,MALOPOLSKIE,2002,baleron gotowany,17.06
+1400000,MAZOWIECKIE,2002,baleron gotowany,18.16
+1600000,OPOLSKIE,2002,baleron gotowany,17.68
+1800000,PODKARPACKIE,2002,baleron gotowany,17.04
+2000000,PODLASKIE,2002,baleron gotowany,17.31
+200000,DOLNOSLASKIE,2003,baleron gotowany,16.44
+400000,KUJAWSKO-POMORSKIE,2003,baleron gotowany,16.64
+600000,LUBELSKIE,2003,baleron gotowany,15.52
+800000,LUBUSKIE,2003,baleron gotowany,17.34
+1000000,LODZKIE,2003,baleron gotowany,16.37
+1200000,MALOPOLSKIE,2003,baleron gotowany,15.22
+1400000,MAZOWIECKIE,2003,baleron gotowany,16.26
+1600000,OPOLSKIE,2003,baleron gotowany,16.37
+1800000,PODKARPACKIE,2003,baleron gotowany,15.72
+2000000,PODLASKIE,2003,baleron gotowany,16.01
+200000,DOLNOSLASKIE,2004,baleron gotowany,17.62
+400000,KUJAWSKO-POMORSKIE,2004,baleron gotowany,17.39
+600000,LUBELSKIE,2004,baleron gotowany,17.03
+800000,LUBUSKIE,2004,baleron gotowany,18.62
+1000000,LODZKIE,2004,baleron gotowany,17.63
+1200000,MALOPOLSKIE,2004,baleron gotowany,16.51
+1400000,MAZOWIECKIE,2004,baleron gotowany,17.45
+1600000,OPOLSKIE,2004,baleron gotowany,17.38
+1800000,PODKARPACKIE,2004,baleron gotowany,16.43
+2000000,PODLASKIE,2004,baleron gotowany,17.70
+200000,DOLNOSLASKIE,2005,baleron gotowany,17.20
+400000,KUJAWSKO-POMORSKIE,2005,baleron gotowany,17.18
+600000,LUBELSKIE,2005,baleron gotowany,16.76
+800000,LUBUSKIE,2005,baleron gotowany,18.37
+1000000,LODZKIE,2005,baleron gotowany,17.19
+1200000,MALOPOLSKIE,2005,baleron gotowany,16.02
+1400000,MAZOWIECKIE,2005,baleron gotowany,17.15
+1600000,OPOLSKIE,2005,baleron gotowany,17.30
+1800000,PODKARPACKIE,2005,baleron gotowany,16.08
+2000000,PODLASKIE,2005,baleron gotowany,16.52
+200000,DOLNOSLASKIE,2006,baleron gotowany,16.34
+400000,KUJAWSKO-POMORSKIE,2006,baleron gotowany,16.85
+600000,LUBELSKIE,2006,baleron gotowany,15.70
+800000,LUBUSKIE,2006,baleron gotowany,17.83
+1000000,LODZKIE,2006,baleron gotowany,16.32
+1200000,MALOPOLSKIE,2006,baleron gotowany,15.72
+1400000,MAZOWIECKIE,2006,baleron gotowany,16.11
+1600000,OPOLSKIE,2006,baleron gotowany,17.42
+1800000,PODKARPACKIE,2006,baleron gotowany,15.25
+2000000,PODLASKIE,2006,baleron gotowany,15.62
+200000,DOLNOSLASKIE,2007,baleron gotowany,17.01
+400000,KUJAWSKO-POMORSKIE,2007,baleron gotowany,16.72
+600000,LUBELSKIE,2007,baleron gotowany,15.95
+800000,LUBUSKIE,2007,baleron gotowany,17.99
+1000000,LODZKIE,2007,baleron gotowany,16.57
+1200000,MALOPOLSKIE,2007,baleron gotowany,15.51
+1400000,MAZOWIECKIE,2007,baleron gotowany,16.47
+1600000,OPOLSKIE,2007,baleron gotowany,17.48
+1800000,PODKARPACKIE,2007,baleron gotowany,15.27
+2000000,PODLASKIE,2007,baleron gotowany,15.40
+200000,DOLNOSLASKIE,2008,baleron gotowany,17.60
+400000,KUJAWSKO-POMORSKIE,2008,baleron gotowany,17.82
+600000,LUBELSKIE,2008,baleron gotowany,16.36
+800000,LUBUSKIE,2008,baleron gotowany,18.32
+1000000,LODZKIE,2008,baleron gotowany,17.26
+1200000,MALOPOLSKIE,2008,baleron gotowany,16.29
+1400000,MAZOWIECKIE,2008,baleron gotowany,16.85
+1600000,OPOLSKIE,2008,baleron gotowany,18.28
+1800000,PODKARPACKIE,2008,baleron gotowany,15.37
+2000000,PODLASKIE,2008,baleron gotowany,16.16
+200000,DOLNOSLASKIE,2009,baleron gotowany,18.36
+400000,KUJAWSKO-POMORSKIE,2009,baleron gotowany,18.56
+600000,LUBELSKIE,2009,baleron gotowany,17.44
+800000,LUBUSKIE,2009,baleron gotowany,18.07
+1000000,LODZKIE,2009,baleron gotowany,18.19
+1200000,MALOPOLSKIE,2009,baleron gotowany,17.79
+1400000,MAZOWIECKIE,2009,baleron gotowany,17.89
+1600000,OPOLSKIE,2009,baleron gotowany,18.43
+1800000,PODKARPACKIE,2009,baleron gotowany,16.64
+2000000,PODLASKIE,2009,baleron gotowany,17.72
+200000,DOLNOSLASKIE,2010,baleron gotowany,18.40
+400000,KUJAWSKO-POMORSKIE,2010,baleron gotowany,18.98
+600000,LUBELSKIE,2010,baleron gotowany,16.31
+800000,LUBUSKIE,2010,baleron gotowany,18.33
+1000000,LODZKIE,2010,baleron gotowany,17.21
+1200000,MALOPOLSKIE,2010,baleron gotowany,17.71
+1400000,MAZOWIECKIE,2010,baleron gotowany,17.24
+1600000,OPOLSKIE,2010,baleron gotowany,17.41
+1800000,PODKARPACKIE,2010,baleron gotowany,15.83
+2000000,PODLASKIE,2010,baleron gotowany,16.63
+200000,DOLNOSLASKIE,2011,baleron gotowany,18.41
+400000,KUJAWSKO-POMORSKIE,2011,baleron gotowany,19.06
+600000,LUBELSKIE,2011,baleron gotowany,16.84
+800000,LUBUSKIE,2011,baleron gotowany,18.23
+1000000,LODZKIE,2011,baleron gotowany,17.87
+1200000,MALOPOLSKIE,2011,baleron gotowany,17.55
+1400000,MAZOWIECKIE,2011,baleron gotowany,17.67
+1600000,OPOLSKIE,2011,baleron gotowany,18.18
+1800000,PODKARPACKIE,2011,baleron gotowany,15.74
+2000000,PODLASKIE,2011,baleron gotowany,17.71
+200000,DOLNOSLASKIE,2012,baleron gotowany,19.69
+400000,KUJAWSKO-POMORSKIE,2012,baleron gotowany,21.04
+600000,LUBELSKIE,2012,baleron gotowany,18.10
+800000,LUBUSKIE,2012,baleron gotowany,19.39
+1000000,LODZKIE,2012,baleron gotowany,19.14
+1200000,MALOPOLSKIE,2012,baleron gotowany,18.41
+1400000,MAZOWIECKIE,2012,baleron gotowany,19.47
+1600000,OPOLSKIE,2012,baleron gotowany,19.16
+1800000,PODKARPACKIE,2012,baleron gotowany,17.83
+2000000,PODLASKIE,2012,baleron gotowany,18.95
+200000,DOLNOSLASKIE,2013,baleron gotowany,20.14
+400000,KUJAWSKO-POMORSKIE,2013,baleron gotowany,21.98
+600000,LUBELSKIE,2013,baleron gotowany,18.70
+800000,LUBUSKIE,2013,baleron gotowany,20.61
+1000000,LODZKIE,2013,baleron gotowany,19.40
+1200000,MALOPOLSKIE,2013,baleron gotowany,18.95
+1400000,MAZOWIECKIE,2013,baleron gotowany,20.03
+1600000,OPOLSKIE,2013,baleron gotowany,19.75
+1800000,PODKARPACKIE,2013,baleron gotowany,18.57
+2000000,PODLASKIE,2013,baleron gotowany,20.13
+200000,DOLNOSLASKIE,2014,baleron gotowany,20.77
+400000,KUJAWSKO-POMORSKIE,2014,baleron gotowany,21.48
+600000,LUBELSKIE,2014,baleron gotowany,18.69
+800000,LUBUSKIE,2014,baleron gotowany,22.53
+1000000,LODZKIE,2014,baleron gotowany,19.27
+1200000,MALOPOLSKIE,2014,baleron gotowany,20.17
+1400000,MAZOWIECKIE,2014,baleron gotowany,19.74
+1600000,OPOLSKIE,2014,baleron gotowany,20.91
+1800000,PODKARPACKIE,2014,baleron gotowany,18.47
+2000000,PODLASKIE,2014,baleron gotowany,19.85
+200000,DOLNOSLASKIE,2015,baleron gotowany,21.24
+400000,KUJAWSKO-POMORSKIE,2015,baleron gotowany,19.43
+600000,LUBELSKIE,2015,baleron gotowany,18.60
+800000,LUBUSKIE,2015,baleron gotowany,22.44
+1000000,LODZKIE,2015,baleron gotowany,18.40
+1200000,MALOPOLSKIE,2015,baleron gotowany,19.95
+1400000,MAZOWIECKIE,2015,baleron gotowany,18.65
+1600000,OPOLSKIE,2015,baleron gotowany,20.98
+1800000,PODKARPACKIE,2015,baleron gotowany,17.06
+2000000,PODLASKIE,2015,baleron gotowany,19.22
+200000,DOLNOSLASKIE,2016,baleron gotowany,19.80
+400000,KUJAWSKO-POMORSKIE,2016,baleron gotowany,18.81
+600000,LUBELSKIE,2016,baleron gotowany,19.16
+800000,LUBUSKIE,2016,baleron gotowany,21.98
+1000000,LODZKIE,2016,baleron gotowany,18.85
+1200000,MALOPOLSKIE,2016,baleron gotowany,20.11
+1400000,MAZOWIECKIE,2016,baleron gotowany,18.68
+1600000,OPOLSKIE,2016,baleron gotowany,20.61
+1800000,PODKARPACKIE,2016,baleron gotowany,18.24
+2000000,PODLASKIE,2016,baleron gotowany,18.81
+200000,DOLNOSLASKIE,2017,baleron gotowany,21.58
+400000,KUJAWSKO-POMORSKIE,2017,baleron gotowany,19.89
+600000,LUBELSKIE,2017,baleron gotowany,20.95
+800000,LUBUSKIE,2017,baleron gotowany,22.62
+1000000,LODZKIE,2017,baleron gotowany,21.06
+1200000,MALOPOLSKIE,2017,baleron gotowany,20.89
+1400000,MAZOWIECKIE,2017,baleron gotowany,20.52
+1600000,OPOLSKIE,2017,baleron gotowany,20.93
+1800000,PODKARPACKIE,2017,baleron gotowany,20.27
+2000000,PODLASKIE,2017,baleron gotowany,20.41
+200000,DOLNOSLASKIE,2018,baleron gotowany,22.48
+400000,KUJAWSKO-POMORSKIE,2018,baleron gotowany,20.33
+600000,LUBELSKIE,2018,baleron gotowany,21.20
+800000,LUBUSKIE,2018,baleron gotowany,23.26
+1000000,LODZKIE,2018,baleron gotowany,22.07
+1200000,MALOPOLSKIE,2018,baleron gotowany,21.23
+1400000,MAZOWIECKIE,2018,baleron gotowany,21.29
+1600000,OPOLSKIE,2018,baleron gotowany,22.08
+1800000,PODKARPACKIE,2018,baleron gotowany,21.21
+2000000,PODLASKIE,2018,baleron gotowany,20.87
+200000,DOLNOSLASKIE,2019,baleron gotowany,23.58
+400000,KUJAWSKO-POMORSKIE,2019,baleron gotowany,22.50
+600000,LUBELSKIE,2019,baleron gotowany,24.21
+800000,LUBUSKIE,2019,baleron gotowany,25.46
+1000000,LODZKIE,2019,baleron gotowany,23.71
+1200000,MALOPOLSKIE,2019,baleron gotowany,23.67
+1400000,MAZOWIECKIE,2019,baleron gotowany,22.93
+1600000,OPOLSKIE,2019,baleron gotowany,24.10
+1800000,PODKARPACKIE,2019,baleron gotowany,22.15
+2000000,PODLASKIE,2019,baleron gotowany,23.15
+200000,DOLNOSLASKIE,2020,baleron gotowany,25.39
+400000,KUJAWSKO-POMORSKIE,2020,baleron gotowany,25.43
+600000,LUBELSKIE,2020,baleron gotowany,27.40
+800000,LUBUSKIE,2020,baleron gotowany,26.23
+1000000,LODZKIE,2020,baleron gotowany,26.99
+1200000,MALOPOLSKIE,2020,baleron gotowany,25.59
+1400000,MAZOWIECKIE,2020,baleron gotowany,25.81
+1600000,OPOLSKIE,2020,baleron gotowany,25.01
+1800000,PODKARPACKIE,2020,baleron gotowany,26.19
+2000000,PODLASKIE,2020,baleron gotowany,26.07
+200000,DOLNOSLASKIE,2021,baleron gotowany,25.11
+400000,KUJAWSKO-POMORSKIE,2021,baleron gotowany,26.60
+600000,LUBELSKIE,2021,baleron gotowany,27.81
+800000,LUBUSKIE,2021,baleron gotowany,26.70
+1000000,LODZKIE,2021,baleron gotowany,25.08
+1200000,MALOPOLSKIE,2021,baleron gotowany,25.72
+1400000,MAZOWIECKIE,2021,baleron gotowany,25.27
+1600000,OPOLSKIE,2021,baleron gotowany,24.24
+1800000,PODKARPACKIE,2021,baleron gotowany,25.53
+2000000,PODLASKIE,2021,baleron gotowany,26.63
+200000,DOLNOSLASKIE,2022,baleron gotowany,28.09
+400000,KUJAWSKO-POMORSKIE,2022,baleron gotowany,30.26
+600000,LUBELSKIE,2022,baleron gotowany,30.48
+800000,LUBUSKIE,2022,baleron gotowany,31.24
+1000000,LODZKIE,2022,baleron gotowany,29.69
+1200000,MALOPOLSKIE,2022,baleron gotowany,28.65
+1400000,MAZOWIECKIE,2022,baleron gotowany,29.30
+1600000,OPOLSKIE,2022,baleron gotowany,28.07
+1800000,PODKARPACKIE,2022,baleron gotowany,28.65
+2000000,PODLASKIE,2022,baleron gotowany,30.16
+200000,DOLNOSLASKIE,2002,kieLbasa sucha,21.06
+400000,KUJAWSKO-POMORSKIE,2002,kieLbasa sucha,23.84
+600000,LUBELSKIE,2002,kieLbasa sucha,24.24
+800000,LUBUSKIE,2002,kieLbasa sucha,21.54
+1000000,LODZKIE,2002,kieLbasa sucha,21.36
+1200000,MALOPOLSKIE,2002,kieLbasa sucha,21.64
+1400000,MAZOWIECKIE,2002,kieLbasa sucha,25.34
+1600000,OPOLSKIE,2002,kieLbasa sucha,18.81
+1800000,PODKARPACKIE,2002,kieLbasa sucha,28.70
+2000000,PODLASKIE,2002,kieLbasa sucha,27.89
+200000,DOLNOSLASKIE,2003,kieLbasa sucha,19.90
+400000,KUJAWSKO-POMORSKIE,2003,kieLbasa sucha,22.81
+600000,LUBELSKIE,2003,kieLbasa sucha,22.10
+800000,LUBUSKIE,2003,kieLbasa sucha,20.65
+1000000,LODZKIE,2003,kieLbasa sucha,21.00
+1200000,MALOPOLSKIE,2003,kieLbasa sucha,21.10
+1400000,MAZOWIECKIE,2003,kieLbasa sucha,24.45
+1600000,OPOLSKIE,2003,kieLbasa sucha,17.30
+1800000,PODKARPACKIE,2003,kieLbasa sucha,28.01
+2000000,PODLASKIE,2003,kieLbasa sucha,28.00
+200000,DOLNOSLASKIE,2004,kieLbasa sucha,20.17
+400000,KUJAWSKO-POMORSKIE,2004,kieLbasa sucha,23.13
+600000,LUBELSKIE,2004,kieLbasa sucha,24.08
+800000,LUBUSKIE,2004,kieLbasa sucha,21.11
+1000000,LODZKIE,2004,kieLbasa sucha,23.46
+1200000,MALOPOLSKIE,2004,kieLbasa sucha,22.14
+1400000,MAZOWIECKIE,2004,kieLbasa sucha,26.37
+1600000,OPOLSKIE,2004,kieLbasa sucha,18.87
+1800000,PODKARPACKIE,2004,kieLbasa sucha,28.98
+2000000,PODLASKIE,2004,kieLbasa sucha,30.30
+200000,DOLNOSLASKIE,2005,kieLbasa sucha,21.24
+400000,KUJAWSKO-POMORSKIE,2005,kieLbasa sucha,24.04
+600000,LUBELSKIE,2005,kieLbasa sucha,26.00
+800000,LUBUSKIE,2005,kieLbasa sucha,21.33
+1000000,LODZKIE,2005,kieLbasa sucha,24.79
+1200000,MALOPOLSKIE,2005,kieLbasa sucha,25.85
+1400000,MAZOWIECKIE,2005,kieLbasa sucha,27.07
+1600000,OPOLSKIE,2005,kieLbasa sucha,18.96
+1800000,PODKARPACKIE,2005,kieLbasa sucha,31.23
+2000000,PODLASKIE,2005,kieLbasa sucha,30.39
+200000,DOLNOSLASKIE,2006,kieLbasa sucha,21.74
+400000,KUJAWSKO-POMORSKIE,2006,kieLbasa sucha,24.25
+600000,LUBELSKIE,2006,kieLbasa sucha,24.23
+800000,LUBUSKIE,2006,kieLbasa sucha,21.38
+1000000,LODZKIE,2006,kieLbasa sucha,25.81
+1200000,MALOPOLSKIE,2006,kieLbasa sucha,27.32
+1400000,MAZOWIECKIE,2006,kieLbasa sucha,27.55
+1600000,OPOLSKIE,2006,kieLbasa sucha,20.25
+1800000,PODKARPACKIE,2006,kieLbasa sucha,33.13
+2000000,PODLASKIE,2006,kieLbasa sucha,27.64
+200000,DOLNOSLASKIE,2007,kieLbasa sucha,21.73
+400000,KUJAWSKO-POMORSKIE,2007,kieLbasa sucha,23.70
+600000,LUBELSKIE,2007,kieLbasa sucha,24.51
+800000,LUBUSKIE,2007,kieLbasa sucha,21.94
+1000000,LODZKIE,2007,kieLbasa sucha,27.00
+1200000,MALOPOLSKIE,2007,kieLbasa sucha,28.77
+1400000,MAZOWIECKIE,2007,kieLbasa sucha,27.91
+1600000,OPOLSKIE,2007,kieLbasa sucha,20.29
+1800000,PODKARPACKIE,2007,kieLbasa sucha,31.55
+2000000,PODLASKIE,2007,kieLbasa sucha,29.01
+200000,DOLNOSLASKIE,2008,kieLbasa sucha,23.85
+400000,KUJAWSKO-POMORSKIE,2008,kieLbasa sucha,24.38
+600000,LUBELSKIE,2008,kieLbasa sucha,27.21
+800000,LUBUSKIE,2008,kieLbasa sucha,23.07
+1000000,LODZKIE,2008,kieLbasa sucha,27.43
+1200000,MALOPOLSKIE,2008,kieLbasa sucha,30.73
+1400000,MAZOWIECKIE,2008,kieLbasa sucha,29.88
+1600000,OPOLSKIE,2008,kieLbasa sucha,20.16
+1800000,PODKARPACKIE,2008,kieLbasa sucha,34.29
+2000000,PODLASKIE,2008,kieLbasa sucha,30.92
+200000,DOLNOSLASKIE,2009,kieLbasa sucha,26.41
+400000,KUJAWSKO-POMORSKIE,2009,kieLbasa sucha,26.61
+600000,LUBELSKIE,2009,kieLbasa sucha,26.91
+800000,LUBUSKIE,2009,kieLbasa sucha,24.30
+1000000,LODZKIE,2009,kieLbasa sucha,28.82
+1200000,MALOPOLSKIE,2009,kieLbasa sucha,29.76
+1400000,MAZOWIECKIE,2009,kieLbasa sucha,30.61
+1600000,OPOLSKIE,2009,kieLbasa sucha,20.34
+1800000,PODKARPACKIE,2009,kieLbasa sucha,35.22
+2000000,PODLASKIE,2009,kieLbasa sucha,30.83
+200000,DOLNOSLASKIE,2010,kieLbasa sucha,25.89
+400000,KUJAWSKO-POMORSKIE,2010,kieLbasa sucha,27.24
+600000,LUBELSKIE,2010,kieLbasa sucha,25.50
+800000,LUBUSKIE,2010,kieLbasa sucha,24.82
+1000000,LODZKIE,2010,kieLbasa sucha,27.71
+1200000,MALOPOLSKIE,2010,kieLbasa sucha,30.51
+1400000,MAZOWIECKIE,2010,kieLbasa sucha,29.49
+1600000,OPOLSKIE,2010,kieLbasa sucha,21.88
+1800000,PODKARPACKIE,2010,kieLbasa sucha,35.62
+2000000,PODLASKIE,2010,kieLbasa sucha,32.13
+200000,DOLNOSLASKIE,2011,kieLbasa sucha,26.63
+400000,KUJAWSKO-POMORSKIE,2011,kieLbasa sucha,26.96
+600000,LUBELSKIE,2011,kieLbasa sucha,25.86
+800000,LUBUSKIE,2011,kieLbasa sucha,23.93
+1000000,LODZKIE,2011,kieLbasa sucha,28.11
+1200000,MALOPOLSKIE,2011,kieLbasa sucha,32.20
+1400000,MAZOWIECKIE,2011,kieLbasa sucha,29.60
+1600000,OPOLSKIE,2011,kieLbasa sucha,23.77
+1800000,PODKARPACKIE,2011,kieLbasa sucha,33.33
+2000000,PODLASKIE,2011,kieLbasa sucha,31.35
+200000,DOLNOSLASKIE,2012,kieLbasa sucha,28.72
+400000,KUJAWSKO-POMORSKIE,2012,kieLbasa sucha,28.32
+600000,LUBELSKIE,2012,kieLbasa sucha,27.95
+800000,LUBUSKIE,2012,kieLbasa sucha,25.41
+1000000,LODZKIE,2012,kieLbasa sucha,30.76
+1200000,MALOPOLSKIE,2012,kieLbasa sucha,33.02
+1400000,MAZOWIECKIE,2012,kieLbasa sucha,31.11
+1600000,OPOLSKIE,2012,kieLbasa sucha,26.43
+1800000,PODKARPACKIE,2012,kieLbasa sucha,27.88
+2000000,PODLASKIE,2012,kieLbasa sucha,32.73
+200000,DOLNOSLASKIE,2013,kieLbasa sucha,30.76
+400000,KUJAWSKO-POMORSKIE,2013,kieLbasa sucha,29.42
+600000,LUBELSKIE,2013,kieLbasa sucha,29.37
+800000,LUBUSKIE,2013,kieLbasa sucha,26.23
+1000000,LODZKIE,2013,kieLbasa sucha,31.17
+1200000,MALOPOLSKIE,2013,kieLbasa sucha,34.40
+1400000,MAZOWIECKIE,2013,kieLbasa sucha,30.96
+1600000,OPOLSKIE,2013,kieLbasa sucha,26.98
+1800000,PODKARPACKIE,2013,kieLbasa sucha,28.09
+2000000,PODLASKIE,2013,kieLbasa sucha,32.76
+200000,DOLNOSLASKIE,2014,kieLbasa sucha,31.13
+400000,KUJAWSKO-POMORSKIE,2014,kieLbasa sucha,30.52
+600000,LUBELSKIE,2014,kieLbasa sucha,29.51
+800000,LUBUSKIE,2014,kieLbasa sucha,27.83
+1000000,LODZKIE,2014,kieLbasa sucha,30.08
+1200000,MALOPOLSKIE,2014,kieLbasa sucha,33.80
+1400000,MAZOWIECKIE,2014,kieLbasa sucha,30.36
+1600000,OPOLSKIE,2014,kieLbasa sucha,28.15
+1800000,PODKARPACKIE,2014,kieLbasa sucha,28.44
+2000000,PODLASKIE,2014,kieLbasa sucha,31.92
+200000,DOLNOSLASKIE,2015,kieLbasa sucha,31.03
+400000,KUJAWSKO-POMORSKIE,2015,kieLbasa sucha,29.67
+600000,LUBELSKIE,2015,kieLbasa sucha,28.18
+800000,LUBUSKIE,2015,kieLbasa sucha,28.36
+1000000,LODZKIE,2015,kieLbasa sucha,29.43
+1200000,MALOPOLSKIE,2015,kieLbasa sucha,32.09
+1400000,MAZOWIECKIE,2015,kieLbasa sucha,30.16
+1600000,OPOLSKIE,2015,kieLbasa sucha,27.83
+1800000,PODKARPACKIE,2015,kieLbasa sucha,29.60
+2000000,PODLASKIE,2015,kieLbasa sucha,31.25
+200000,DOLNOSLASKIE,2016,kieLbasa sucha,32.46
+400000,KUJAWSKO-POMORSKIE,2016,kieLbasa sucha,28.95
+600000,LUBELSKIE,2016,kieLbasa sucha,28.28
+800000,LUBUSKIE,2016,kieLbasa sucha,29.14
+1000000,LODZKIE,2016,kieLbasa sucha,31.32
+1200000,MALOPOLSKIE,2016,kieLbasa sucha,30.29
+1400000,MAZOWIECKIE,2016,kieLbasa sucha,29.96
+1600000,OPOLSKIE,2016,kieLbasa sucha,28.21
+1800000,PODKARPACKIE,2016,kieLbasa sucha,29.21
+2000000,PODLASKIE,2016,kieLbasa sucha,31.25
+200000,DOLNOSLASKIE,2017,kieLbasa sucha,32.61
+400000,KUJAWSKO-POMORSKIE,2017,kieLbasa sucha,31.20
+600000,LUBELSKIE,2017,kieLbasa sucha,28.44
+800000,LUBUSKIE,2017,kieLbasa sucha,30.02
+1000000,LODZKIE,2017,kieLbasa sucha,31.40
+1200000,MALOPOLSKIE,2017,kieLbasa sucha,30.17
+1400000,MAZOWIECKIE,2017,kieLbasa sucha,30.78
+1600000,OPOLSKIE,2017,kieLbasa sucha,30.06
+1800000,PODKARPACKIE,2017,kieLbasa sucha,31.05
+2000000,PODLASKIE,2017,kieLbasa sucha,33.68
+200000,DOLNOSLASKIE,2018,kieLbasa sucha,34.14
+400000,KUJAWSKO-POMORSKIE,2018,kieLbasa sucha,32.38
+600000,LUBELSKIE,2018,kieLbasa sucha,28.76
+800000,LUBUSKIE,2018,kieLbasa sucha,31.34
+1000000,LODZKIE,2018,kieLbasa sucha,31.74
+1200000,MALOPOLSKIE,2018,kieLbasa sucha,30.93
+1400000,MAZOWIECKIE,2018,kieLbasa sucha,32.52
+1600000,OPOLSKIE,2018,kieLbasa sucha,31.56
+1800000,PODKARPACKIE,2018,kieLbasa sucha,31.73
+2000000,PODLASKIE,2018,kieLbasa sucha,34.71
+200000,DOLNOSLASKIE,2019,kieLbasa sucha,35.61
+400000,KUJAWSKO-POMORSKIE,2019,kieLbasa sucha,35.38
+600000,LUBELSKIE,2019,kieLbasa sucha,28.20
+800000,LUBUSKIE,2019,kieLbasa sucha,32.83
+1000000,LODZKIE,2019,kieLbasa sucha,32.50
+1200000,MALOPOLSKIE,2019,kieLbasa sucha,32.10
+1400000,MAZOWIECKIE,2019,kieLbasa sucha,34.03
+1600000,OPOLSKIE,2019,kieLbasa sucha,33.24
+1800000,PODKARPACKIE,2019,kieLbasa sucha,33.59
+2000000,PODLASKIE,2019,kieLbasa sucha,35.28
+200000,DOLNOSLASKIE,2020,kieLbasa sucha,39.74
+400000,KUJAWSKO-POMORSKIE,2020,kieLbasa sucha,39.33
+600000,LUBELSKIE,2020,kieLbasa sucha,33.23
+800000,LUBUSKIE,2020,kieLbasa sucha,34.71
+1000000,LODZKIE,2020,kieLbasa sucha,35.95
+1200000,MALOPOLSKIE,2020,kieLbasa sucha,36.05
+1400000,MAZOWIECKIE,2020,kieLbasa sucha,38.15
+1600000,OPOLSKIE,2020,kieLbasa sucha,35.34
+1800000,PODKARPACKIE,2020,kieLbasa sucha,35.67
+2000000,PODLASKIE,2020,kieLbasa sucha,39.02
+200000,DOLNOSLASKIE,2021,kieLbasa sucha,39.09
+400000,KUJAWSKO-POMORSKIE,2021,kieLbasa sucha,41.56
+600000,LUBELSKIE,2021,kieLbasa sucha,34.87
+800000,LUBUSKIE,2021,kieLbasa sucha,34.06
+1000000,LODZKIE,2021,kieLbasa sucha,36.54
+1200000,MALOPOLSKIE,2021,kieLbasa sucha,38.70
+1400000,MAZOWIECKIE,2021,kieLbasa sucha,38.24
+1600000,OPOLSKIE,2021,kieLbasa sucha,35.15
+1800000,PODKARPACKIE,2021,kieLbasa sucha,35.75
+2000000,PODLASKIE,2021,kieLbasa sucha,39.58
+200000,DOLNOSLASKIE,2022,kieLbasa sucha,45.32
+400000,KUJAWSKO-POMORSKIE,2022,kieLbasa sucha,46.98
+600000,LUBELSKIE,2022,kieLbasa sucha,43.74
+800000,LUBUSKIE,2022,kieLbasa sucha,39.50
+1000000,LODZKIE,2022,kieLbasa sucha,39.48
+1200000,MALOPOLSKIE,2022,kieLbasa sucha,43.37
+1400000,MAZOWIECKIE,2022,kieLbasa sucha,42.16
+1600000,OPOLSKIE,2022,kieLbasa sucha,40.37
+1800000,PODKARPACKIE,2022,kieLbasa sucha,38.40
+2000000,PODLASKIE,2022,kieLbasa sucha,42.38
+200000,DOLNOSLASKIE,2002,kieLbasa wedzona,11.98
+400000,KUJAWSKO-POMORSKIE,2002,kieLbasa wedzona,12.44
+600000,LUBELSKIE,2002,kieLbasa wedzona,13.27
+800000,LUBUSKIE,2002,kieLbasa wedzona,12.41
+1000000,LODZKIE,2002,kieLbasa wedzona,11.53
+1200000,MALOPOLSKIE,2002,kieLbasa wedzona,11.42
+1400000,MAZOWIECKIE,2002,kieLbasa wedzona,13.04
+1600000,OPOLSKIE,2002,kieLbasa wedzona,11.94
+1800000,PODKARPACKIE,2002,kieLbasa wedzona,12.58
+2000000,PODLASKIE,2002,kieLbasa wedzona,12.95
+200000,DOLNOSLASKIE,2003,kieLbasa wedzona,11.12
+400000,KUJAWSKO-POMORSKIE,2003,kieLbasa wedzona,11.23
+600000,LUBELSKIE,2003,kieLbasa wedzona,11.35
+800000,LUBUSKIE,2003,kieLbasa wedzona,11.85
+1000000,LODZKIE,2003,kieLbasa wedzona,11.17
+1200000,MALOPOLSKIE,2003,kieLbasa wedzona,10.11
+1400000,MAZOWIECKIE,2003,kieLbasa wedzona,12.08
+1600000,OPOLSKIE,2003,kieLbasa wedzona,11.07
+1800000,PODKARPACKIE,2003,kieLbasa wedzona,11.33
+2000000,PODLASKIE,2003,kieLbasa wedzona,13.16
+200000,DOLNOSLASKIE,2004,kieLbasa wedzona,11.17
+400000,KUJAWSKO-POMORSKIE,2004,kieLbasa wedzona,11.71
+600000,LUBELSKIE,2004,kieLbasa wedzona,11.69
+800000,LUBUSKIE,2004,kieLbasa wedzona,12.61
+1000000,LODZKIE,2004,kieLbasa wedzona,10.96
+1200000,MALOPOLSKIE,2004,kieLbasa wedzona,10.98
+1400000,MAZOWIECKIE,2004,kieLbasa wedzona,12.15
+1600000,OPOLSKIE,2004,kieLbasa wedzona,11.53
+1800000,PODKARPACKIE,2004,kieLbasa wedzona,11.88
+2000000,PODLASKIE,2004,kieLbasa wedzona,14.34
+200000,DOLNOSLASKIE,2005,kieLbasa wedzona,11.71
+400000,KUJAWSKO-POMORSKIE,2005,kieLbasa wedzona,12.08
+600000,LUBELSKIE,2005,kieLbasa wedzona,11.61
+800000,LUBUSKIE,2005,kieLbasa wedzona,12.85
+1000000,LODZKIE,2005,kieLbasa wedzona,11.77
+1200000,MALOPOLSKIE,2005,kieLbasa wedzona,11.20
+1400000,MAZOWIECKIE,2005,kieLbasa wedzona,12.21
+1600000,OPOLSKIE,2005,kieLbasa wedzona,10.92
+1800000,PODKARPACKIE,2005,kieLbasa wedzona,12.12
+2000000,PODLASKIE,2005,kieLbasa wedzona,13.65
+200000,DOLNOSLASKIE,2006,kieLbasa wedzona,11.67
+400000,KUJAWSKO-POMORSKIE,2006,kieLbasa wedzona,12.05
+600000,LUBELSKIE,2006,kieLbasa wedzona,11.73
+800000,LUBUSKIE,2006,kieLbasa wedzona,12.35
+1000000,LODZKIE,2006,kieLbasa wedzona,12.24
+1200000,MALOPOLSKIE,2006,kieLbasa wedzona,11.01
+1400000,MAZOWIECKIE,2006,kieLbasa wedzona,11.86
+1600000,OPOLSKIE,2006,kieLbasa wedzona,12.55
+1800000,PODKARPACKIE,2006,kieLbasa wedzona,11.52
+2000000,PODLASKIE,2006,kieLbasa wedzona,12.92
+200000,DOLNOSLASKIE,2007,kieLbasa wedzona,11.88
+400000,KUJAWSKO-POMORSKIE,2007,kieLbasa wedzona,12.12
+600000,LUBELSKIE,2007,kieLbasa wedzona,11.78
+800000,LUBUSKIE,2007,kieLbasa wedzona,12.58
+1000000,LODZKIE,2007,kieLbasa wedzona,11.99
+1200000,MALOPOLSKIE,2007,kieLbasa wedzona,11.20
+1400000,MAZOWIECKIE,2007,kieLbasa wedzona,12.11
+1600000,OPOLSKIE,2007,kieLbasa wedzona,11.94
+1800000,PODKARPACKIE,2007,kieLbasa wedzona,11.34
+2000000,PODLASKIE,2007,kieLbasa wedzona,12.91
+200000,DOLNOSLASKIE,2008,kieLbasa wedzona,13.42
+400000,KUJAWSKO-POMORSKIE,2008,kieLbasa wedzona,12.96
+600000,LUBELSKIE,2008,kieLbasa wedzona,12.59
+800000,LUBUSKIE,2008,kieLbasa wedzona,13.20
+1000000,LODZKIE,2008,kieLbasa wedzona,12.16
+1200000,MALOPOLSKIE,2008,kieLbasa wedzona,11.92
+1400000,MAZOWIECKIE,2008,kieLbasa wedzona,12.92
+1600000,OPOLSKIE,2008,kieLbasa wedzona,11.92
+1800000,PODKARPACKIE,2008,kieLbasa wedzona,11.89
+2000000,PODLASKIE,2008,kieLbasa wedzona,13.32
+200000,DOLNOSLASKIE,2009,kieLbasa wedzona,14.27
+400000,KUJAWSKO-POMORSKIE,2009,kieLbasa wedzona,13.44
+600000,LUBELSKIE,2009,kieLbasa wedzona,14.05
+800000,LUBUSKIE,2009,kieLbasa wedzona,13.63
+1000000,LODZKIE,2009,kieLbasa wedzona,13.38
+1200000,MALOPOLSKIE,2009,kieLbasa wedzona,13.08
+1400000,MAZOWIECKIE,2009,kieLbasa wedzona,14.44
+1600000,OPOLSKIE,2009,kieLbasa wedzona,13.60
+1800000,PODKARPACKIE,2009,kieLbasa wedzona,13.10
+2000000,PODLASKIE,2009,kieLbasa wedzona,14.64
+200000,DOLNOSLASKIE,2010,kieLbasa wedzona,14.90
+400000,KUJAWSKO-POMORSKIE,2010,kieLbasa wedzona,13.83
+600000,LUBELSKIE,2010,kieLbasa wedzona,12.86
+800000,LUBUSKIE,2010,kieLbasa wedzona,14.07
+1000000,LODZKIE,2010,kieLbasa wedzona,14.53
+1200000,MALOPOLSKIE,2010,kieLbasa wedzona,13.39
+1400000,MAZOWIECKIE,2010,kieLbasa wedzona,14.26
+1600000,OPOLSKIE,2010,kieLbasa wedzona,14.21
+1800000,PODKARPACKIE,2010,kieLbasa wedzona,12.98
+2000000,PODLASKIE,2010,kieLbasa wedzona,13.84
+200000,DOLNOSLASKIE,2011,kieLbasa wedzona,14.88
+400000,KUJAWSKO-POMORSKIE,2011,kieLbasa wedzona,14.88
+600000,LUBELSKIE,2011,kieLbasa wedzona,13.28
+800000,LUBUSKIE,2011,kieLbasa wedzona,13.69
+1000000,LODZKIE,2011,kieLbasa wedzona,15.36
+1200000,MALOPOLSKIE,2011,kieLbasa wedzona,13.53
+1400000,MAZOWIECKIE,2011,kieLbasa wedzona,14.56
+1600000,OPOLSKIE,2011,kieLbasa wedzona,14.16
+1800000,PODKARPACKIE,2011,kieLbasa wedzona,13.81
+2000000,PODLASKIE,2011,kieLbasa wedzona,14.88
+200000,DOLNOSLASKIE,2012,kieLbasa wedzona,16.23
+400000,KUJAWSKO-POMORSKIE,2012,kieLbasa wedzona,16.48
+600000,LUBELSKIE,2012,kieLbasa wedzona,14.15
+800000,LUBUSKIE,2012,kieLbasa wedzona,14.17
+1000000,LODZKIE,2012,kieLbasa wedzona,16.12
+1200000,MALOPOLSKIE,2012,kieLbasa wedzona,14.78
+1400000,MAZOWIECKIE,2012,kieLbasa wedzona,16.76
+1600000,OPOLSKIE,2012,kieLbasa wedzona,15.10
+1800000,PODKARPACKIE,2012,kieLbasa wedzona,14.51
+2000000,PODLASKIE,2012,kieLbasa wedzona,16.75
+200000,DOLNOSLASKIE,2013,kieLbasa wedzona,16.89
+400000,KUJAWSKO-POMORSKIE,2013,kieLbasa wedzona,17.20
+600000,LUBELSKIE,2013,kieLbasa wedzona,14.80
+800000,LUBUSKIE,2013,kieLbasa wedzona,14.87
+1000000,LODZKIE,2013,kieLbasa wedzona,16.51
+1200000,MALOPOLSKIE,2013,kieLbasa wedzona,14.97
+1400000,MAZOWIECKIE,2013,kieLbasa wedzona,17.49
+1600000,OPOLSKIE,2013,kieLbasa wedzona,16.46
+1800000,PODKARPACKIE,2013,kieLbasa wedzona,14.73
+2000000,PODLASKIE,2013,kieLbasa wedzona,16.49
+200000,DOLNOSLASKIE,2014,kieLbasa wedzona,16.96
+400000,KUJAWSKO-POMORSKIE,2014,kieLbasa wedzona,17.63
+600000,LUBELSKIE,2014,kieLbasa wedzona,14.53
+800000,LUBUSKIE,2014,kieLbasa wedzona,14.83
+1000000,LODZKIE,2014,kieLbasa wedzona,16.62
+1200000,MALOPOLSKIE,2014,kieLbasa wedzona,15.20
+1400000,MAZOWIECKIE,2014,kieLbasa wedzona,17.41
+1600000,OPOLSKIE,2014,kieLbasa wedzona,16.39
+1800000,PODKARPACKIE,2014,kieLbasa wedzona,14.72
+2000000,PODLASKIE,2014,kieLbasa wedzona,15.48
+200000,DOLNOSLASKIE,2015,kieLbasa wedzona,15.39
+400000,KUJAWSKO-POMORSKIE,2015,kieLbasa wedzona,17.45
+600000,LUBELSKIE,2015,kieLbasa wedzona,14.83
+800000,LUBUSKIE,2015,kieLbasa wedzona,13.95
+1000000,LODZKIE,2015,kieLbasa wedzona,16.74
+1200000,MALOPOLSKIE,2015,kieLbasa wedzona,14.89
+1400000,MAZOWIECKIE,2015,kieLbasa wedzona,16.67
+1600000,OPOLSKIE,2015,kieLbasa wedzona,15.54
+1800000,PODKARPACKIE,2015,kieLbasa wedzona,15.03
+2000000,PODLASKIE,2015,kieLbasa wedzona,14.99
+200000,DOLNOSLASKIE,2016,kieLbasa wedzona,15.65
+400000,KUJAWSKO-POMORSKIE,2016,kieLbasa wedzona,17.15
+600000,LUBELSKIE,2016,kieLbasa wedzona,14.50
+800000,LUBUSKIE,2016,kieLbasa wedzona,14.82
+1000000,LODZKIE,2016,kieLbasa wedzona,16.69
+1200000,MALOPOLSKIE,2016,kieLbasa wedzona,14.72
+1400000,MAZOWIECKIE,2016,kieLbasa wedzona,16.56
+1600000,OPOLSKIE,2016,kieLbasa wedzona,15.80
+1800000,PODKARPACKIE,2016,kieLbasa wedzona,15.04
+2000000,PODLASKIE,2016,kieLbasa wedzona,14.40
+200000,DOLNOSLASKIE,2017,kieLbasa wedzona,18.91
+400000,KUJAWSKO-POMORSKIE,2017,kieLbasa wedzona,17.71
+600000,LUBELSKIE,2017,kieLbasa wedzona,15.71
+800000,LUBUSKIE,2017,kieLbasa wedzona,17.88
+1000000,LODZKIE,2017,kieLbasa wedzona,16.90
+1200000,MALOPOLSKIE,2017,kieLbasa wedzona,15.75
+1400000,MAZOWIECKIE,2017,kieLbasa wedzona,16.38
+1600000,OPOLSKIE,2017,kieLbasa wedzona,17.41
+1800000,PODKARPACKIE,2017,kieLbasa wedzona,16.38
+2000000,PODLASKIE,2017,kieLbasa wedzona,15.61
+200000,DOLNOSLASKIE,2018,kieLbasa wedzona,19.29
+400000,KUJAWSKO-POMORSKIE,2018,kieLbasa wedzona,18.38
+600000,LUBELSKIE,2018,kieLbasa wedzona,16.64
+800000,LUBUSKIE,2018,kieLbasa wedzona,18.37
+1000000,LODZKIE,2018,kieLbasa wedzona,17.28
+1200000,MALOPOLSKIE,2018,kieLbasa wedzona,16.17
+1400000,MAZOWIECKIE,2018,kieLbasa wedzona,16.54
+1600000,OPOLSKIE,2018,kieLbasa wedzona,18.11
+1800000,PODKARPACKIE,2018,kieLbasa wedzona,16.56
+2000000,PODLASKIE,2018,kieLbasa wedzona,15.58
+200000,DOLNOSLASKIE,2019,kieLbasa wedzona,20.65
+400000,KUJAWSKO-POMORSKIE,2019,kieLbasa wedzona,20.05
+600000,LUBELSKIE,2019,kieLbasa wedzona,18.09
+800000,LUBUSKIE,2019,kieLbasa wedzona,20.29
+1000000,LODZKIE,2019,kieLbasa wedzona,18.66
+1200000,MALOPOLSKIE,2019,kieLbasa wedzona,17.24
+1400000,MAZOWIECKIE,2019,kieLbasa wedzona,17.60
+1600000,OPOLSKIE,2019,kieLbasa wedzona,19.55
+1800000,PODKARPACKIE,2019,kieLbasa wedzona,17.28
+2000000,PODLASKIE,2019,kieLbasa wedzona,16.57
+200000,DOLNOSLASKIE,2020,kieLbasa wedzona,23.19
+400000,KUJAWSKO-POMORSKIE,2020,kieLbasa wedzona,22.19
+600000,LUBELSKIE,2020,kieLbasa wedzona,19.52
+800000,LUBUSKIE,2020,kieLbasa wedzona,22.26
+1000000,LODZKIE,2020,kieLbasa wedzona,20.53
+1200000,MALOPOLSKIE,2020,kieLbasa wedzona,19.32
+1400000,MAZOWIECKIE,2020,kieLbasa wedzona,20.17
+1600000,OPOLSKIE,2020,kieLbasa wedzona,22.13
+1800000,PODKARPACKIE,2020,kieLbasa wedzona,19.20
+2000000,PODLASKIE,2020,kieLbasa wedzona,18.97
+200000,DOLNOSLASKIE,2021,kieLbasa wedzona,24.26
+400000,KUJAWSKO-POMORSKIE,2021,kieLbasa wedzona,22.47
+600000,LUBELSKIE,2021,kieLbasa wedzona,19.96
+800000,LUBUSKIE,2021,kieLbasa wedzona,22.76
+1000000,LODZKIE,2021,kieLbasa wedzona,20.23
+1200000,MALOPOLSKIE,2021,kieLbasa wedzona,19.25
+1400000,MAZOWIECKIE,2021,kieLbasa wedzona,20.80
+1600000,OPOLSKIE,2021,kieLbasa wedzona,21.86
+1800000,PODKARPACKIE,2021,kieLbasa wedzona,19.19
+2000000,PODLASKIE,2021,kieLbasa wedzona,18.97
+200000,DOLNOSLASKIE,2022,kieLbasa wedzona,24.85
+400000,KUJAWSKO-POMORSKIE,2022,kieLbasa wedzona,25.26
+600000,LUBELSKIE,2022,kieLbasa wedzona,22.98
+800000,LUBUSKIE,2022,kieLbasa wedzona,25.83
+1000000,LODZKIE,2022,kieLbasa wedzona,23.96
+1200000,MALOPOLSKIE,2022,kieLbasa wedzona,22.24
+1400000,MAZOWIECKIE,2022,kieLbasa wedzona,22.99
+1600000,OPOLSKIE,2022,kieLbasa wedzona,25.90
+1800000,PODKARPACKIE,2022,kieLbasa wedzona,21.17
+2000000,PODLASKIE,2022,kieLbasa wedzona,22.33
+200000,DOLNOSLASKIE,2002,boczek wedzony,15.02
+400000,KUJAWSKO-POMORSKIE,2002,boczek wedzony,14.71
+600000,LUBELSKIE,2002,boczek wedzony,12.68
+800000,LUBUSKIE,2002,boczek wedzony,14.63
+1000000,LODZKIE,2002,boczek wedzony,14.67
+1200000,MALOPOLSKIE,2002,boczek wedzony,13.19
+1400000,MAZOWIECKIE,2002,boczek wedzony,15.82
+1600000,OPOLSKIE,2002,boczek wedzony,13.69
+1800000,PODKARPACKIE,2002,boczek wedzony,13.70
+2000000,PODLASKIE,2002,boczek wedzony,13.27
+200000,DOLNOSLASKIE,2003,boczek wedzony,14.28
+400000,KUJAWSKO-POMORSKIE,2003,boczek wedzony,13.12
+600000,LUBELSKIE,2003,boczek wedzony,11.43
+800000,LUBUSKIE,2003,boczek wedzony,14.08
+1000000,LODZKIE,2003,boczek wedzony,13.54
+1200000,MALOPOLSKIE,2003,boczek wedzony,12.66
+1400000,MAZOWIECKIE,2003,boczek wedzony,14.59
+1600000,OPOLSKIE,2003,boczek wedzony,13.16
+1800000,PODKARPACKIE,2003,boczek wedzony,12.91
+2000000,PODLASKIE,2003,boczek wedzony,12.42
+200000,DOLNOSLASKIE,2004,boczek wedzony,15.06
+400000,KUJAWSKO-POMORSKIE,2004,boczek wedzony,13.97
+600000,LUBELSKIE,2004,boczek wedzony,12.89
+800000,LUBUSKIE,2004,boczek wedzony,15.41
+1000000,LODZKIE,2004,boczek wedzony,14.91
+1200000,MALOPOLSKIE,2004,boczek wedzony,13.46
+1400000,MAZOWIECKIE,2004,boczek wedzony,15.31
+1600000,OPOLSKIE,2004,boczek wedzony,14.43
+1800000,PODKARPACKIE,2004,boczek wedzony,14.29
+2000000,PODLASKIE,2004,boczek wedzony,14.17
+200000,DOLNOSLASKIE,2005,boczek wedzony,15.95
+400000,KUJAWSKO-POMORSKIE,2005,boczek wedzony,14.69
+600000,LUBELSKIE,2005,boczek wedzony,13.59
+800000,LUBUSKIE,2005,boczek wedzony,16.91
+1000000,LODZKIE,2005,boczek wedzony,15.44
+1200000,MALOPOLSKIE,2005,boczek wedzony,13.95
+1400000,MAZOWIECKIE,2005,boczek wedzony,15.42
+1600000,OPOLSKIE,2005,boczek wedzony,15.43
+1800000,PODKARPACKIE,2005,boczek wedzony,14.98
+2000000,PODLASKIE,2005,boczek wedzony,14.24
+200000,DOLNOSLASKIE,2006,boczek wedzony,16.30
+400000,KUJAWSKO-POMORSKIE,2006,boczek wedzony,14.10
+600000,LUBELSKIE,2006,boczek wedzony,12.93
+800000,LUBUSKIE,2006,boczek wedzony,15.99
+1000000,LODZKIE,2006,boczek wedzony,13.98
+1200000,MALOPOLSKIE,2006,boczek wedzony,13.54
+1400000,MAZOWIECKIE,2006,boczek wedzony,15.29
+1600000,OPOLSKIE,2006,boczek wedzony,16.24
+1800000,PODKARPACKIE,2006,boczek wedzony,13.95
+2000000,PODLASKIE,2006,boczek wedzony,13.07
+200000,DOLNOSLASKIE,2007,boczek wedzony,16.58
+400000,KUJAWSKO-POMORSKIE,2007,boczek wedzony,14.02
+600000,LUBELSKIE,2007,boczek wedzony,12.88
+800000,LUBUSKIE,2007,boczek wedzony,16.18
+1000000,LODZKIE,2007,boczek wedzony,13.90
+1200000,MALOPOLSKIE,2007,boczek wedzony,14.05
+1400000,MAZOWIECKIE,2007,boczek wedzony,15.60
+1600000,OPOLSKIE,2007,boczek wedzony,16.29
+1800000,PODKARPACKIE,2007,boczek wedzony,14.00
+2000000,PODLASKIE,2007,boczek wedzony,12.60
+200000,DOLNOSLASKIE,2008,boczek wedzony,16.87
+400000,KUJAWSKO-POMORSKIE,2008,boczek wedzony,15.02
+600000,LUBELSKIE,2008,boczek wedzony,13.66
+800000,LUBUSKIE,2008,boczek wedzony,16.14
+1000000,LODZKIE,2008,boczek wedzony,14.68
+1200000,MALOPOLSKIE,2008,boczek wedzony,14.99
+1400000,MAZOWIECKIE,2008,boczek wedzony,16.46
+1600000,OPOLSKIE,2008,boczek wedzony,17.15
+1800000,PODKARPACKIE,2008,boczek wedzony,13.93
+2000000,PODLASKIE,2008,boczek wedzony,15.02
+200000,DOLNOSLASKIE,2009,boczek wedzony,18.04
+400000,KUJAWSKO-POMORSKIE,2009,boczek wedzony,16.76
+600000,LUBELSKIE,2009,boczek wedzony,15.59
+800000,LUBUSKIE,2009,boczek wedzony,16.72
+1000000,LODZKIE,2009,boczek wedzony,15.75
+1200000,MALOPOLSKIE,2009,boczek wedzony,15.43
+1400000,MAZOWIECKIE,2009,boczek wedzony,17.78
+1600000,OPOLSKIE,2009,boczek wedzony,17.52
+1800000,PODKARPACKIE,2009,boczek wedzony,15.47
+2000000,PODLASKIE,2009,boczek wedzony,17.06
+200000,DOLNOSLASKIE,2010,boczek wedzony,18.05
+400000,KUJAWSKO-POMORSKIE,2010,boczek wedzony,17.08
+600000,LUBELSKIE,2010,boczek wedzony,14.90
+800000,LUBUSKIE,2010,boczek wedzony,17.36
+1000000,LODZKIE,2010,boczek wedzony,14.75
+1200000,MALOPOLSKIE,2010,boczek wedzony,15.50
+1400000,MAZOWIECKIE,2010,boczek wedzony,17.66
+1600000,OPOLSKIE,2010,boczek wedzony,17.59
+1800000,PODKARPACKIE,2010,boczek wedzony,15.47
+2000000,PODLASKIE,2010,boczek wedzony,16.25
+200000,DOLNOSLASKIE,2011,boczek wedzony,18.78
+400000,KUJAWSKO-POMORSKIE,2011,boczek wedzony,17.32
+600000,LUBELSKIE,2011,boczek wedzony,15.65
+800000,LUBUSKIE,2011,boczek wedzony,17.45
+1000000,LODZKIE,2011,boczek wedzony,15.23
+1200000,MALOPOLSKIE,2011,boczek wedzony,15.90
+1400000,MAZOWIECKIE,2011,boczek wedzony,18.38
+1600000,OPOLSKIE,2011,boczek wedzony,18.49
+1800000,PODKARPACKIE,2011,boczek wedzony,15.44
+2000000,PODLASKIE,2011,boczek wedzony,16.71
+200000,DOLNOSLASKIE,2012,boczek wedzony,20.41
+400000,KUJAWSKO-POMORSKIE,2012,boczek wedzony,19.54
+600000,LUBELSKIE,2012,boczek wedzony,17.54
+800000,LUBUSKIE,2012,boczek wedzony,19.41
+1000000,LODZKIE,2012,boczek wedzony,17.60
+1200000,MALOPOLSKIE,2012,boczek wedzony,18.45
+1400000,MAZOWIECKIE,2012,boczek wedzony,19.41
+1600000,OPOLSKIE,2012,boczek wedzony,20.82
+1800000,PODKARPACKIE,2012,boczek wedzony,17.84
+2000000,PODLASKIE,2012,boczek wedzony,18.74
+200000,DOLNOSLASKIE,2013,boczek wedzony,21.42
+400000,KUJAWSKO-POMORSKIE,2013,boczek wedzony,21.03
+600000,LUBELSKIE,2013,boczek wedzony,17.48
+800000,LUBUSKIE,2013,boczek wedzony,20.81
+1000000,LODZKIE,2013,boczek wedzony,18.39
+1200000,MALOPOLSKIE,2013,boczek wedzony,19.63
+1400000,MAZOWIECKIE,2013,boczek wedzony,19.80
+1600000,OPOLSKIE,2013,boczek wedzony,21.36
+1800000,PODKARPACKIE,2013,boczek wedzony,18.96
+2000000,PODLASKIE,2013,boczek wedzony,19.97
+200000,DOLNOSLASKIE,2014,boczek wedzony,21.84
+400000,KUJAWSKO-POMORSKIE,2014,boczek wedzony,21.93
+600000,LUBELSKIE,2014,boczek wedzony,17.94
+800000,LUBUSKIE,2014,boczek wedzony,20.96
+1000000,LODZKIE,2014,boczek wedzony,18.88
+1200000,MALOPOLSKIE,2014,boczek wedzony,19.74
+1400000,MAZOWIECKIE,2014,boczek wedzony,19.84
+1600000,OPOLSKIE,2014,boczek wedzony,21.61
+1800000,PODKARPACKIE,2014,boczek wedzony,18.92
+2000000,PODLASKIE,2014,boczek wedzony,19.71
+200000,DOLNOSLASKIE,2015,boczek wedzony,20.89
+400000,KUJAWSKO-POMORSKIE,2015,boczek wedzony,21.78
+600000,LUBELSKIE,2015,boczek wedzony,16.99
+800000,LUBUSKIE,2015,boczek wedzony,20.77
+1000000,LODZKIE,2015,boczek wedzony,18.75
+1200000,MALOPOLSKIE,2015,boczek wedzony,18.73
+1400000,MAZOWIECKIE,2015,boczek wedzony,19.80
+1600000,OPOLSKIE,2015,boczek wedzony,20.93
+1800000,PODKARPACKIE,2015,boczek wedzony,17.89
+2000000,PODLASKIE,2015,boczek wedzony,18.00
+200000,DOLNOSLASKIE,2016,boczek wedzony,21.52
+400000,KUJAWSKO-POMORSKIE,2016,boczek wedzony,21.94
+600000,LUBELSKIE,2016,boczek wedzony,17.19
+800000,LUBUSKIE,2016,boczek wedzony,21.75
+1000000,LODZKIE,2016,boczek wedzony,18.42
+1200000,MALOPOLSKIE,2016,boczek wedzony,18.96
+1400000,MAZOWIECKIE,2016,boczek wedzony,20.42
+1600000,OPOLSKIE,2016,boczek wedzony,21.50
+1800000,PODKARPACKIE,2016,boczek wedzony,18.50
+2000000,PODLASKIE,2016,boczek wedzony,18.88
+200000,DOLNOSLASKIE,2017,boczek wedzony,24.85
+400000,KUJAWSKO-POMORSKIE,2017,boczek wedzony,23.10
+600000,LUBELSKIE,2017,boczek wedzony,20.48
+800000,LUBUSKIE,2017,boczek wedzony,23.72
+1000000,LODZKIE,2017,boczek wedzony,21.17
+1200000,MALOPOLSKIE,2017,boczek wedzony,20.22
+1400000,MAZOWIECKIE,2017,boczek wedzony,22.45
+1600000,OPOLSKIE,2017,boczek wedzony,24.60
+1800000,PODKARPACKIE,2017,boczek wedzony,22.57
+2000000,PODLASKIE,2017,boczek wedzony,23.17
+200000,DOLNOSLASKIE,2018,boczek wedzony,25.49
+400000,KUJAWSKO-POMORSKIE,2018,boczek wedzony,23.27
+600000,LUBELSKIE,2018,boczek wedzony,21.84
+800000,LUBUSKIE,2018,boczek wedzony,25.35
+1000000,LODZKIE,2018,boczek wedzony,22.83
+1200000,MALOPOLSKIE,2018,boczek wedzony,22.04
+1400000,MAZOWIECKIE,2018,boczek wedzony,23.34
+1600000,OPOLSKIE,2018,boczek wedzony,24.99
+1800000,PODKARPACKIE,2018,boczek wedzony,23.55
+2000000,PODLASKIE,2018,boczek wedzony,24.79
+200000,DOLNOSLASKIE,2019,boczek wedzony,27.15
+400000,KUJAWSKO-POMORSKIE,2019,boczek wedzony,25.10
+600000,LUBELSKIE,2019,boczek wedzony,24.53
+800000,LUBUSKIE,2019,boczek wedzony,26.02
+1000000,LODZKIE,2019,boczek wedzony,23.93
+1200000,MALOPOLSKIE,2019,boczek wedzony,23.16
+1400000,MAZOWIECKIE,2019,boczek wedzony,24.36
+1600000,OPOLSKIE,2019,boczek wedzony,27.42
+1800000,PODKARPACKIE,2019,boczek wedzony,23.68
+2000000,PODLASKIE,2019,boczek wedzony,25.67
+200000,DOLNOSLASKIE,2020,boczek wedzony,30.98
+400000,KUJAWSKO-POMORSKIE,2020,boczek wedzony,28.05
+600000,LUBELSKIE,2020,boczek wedzony,27.88
+800000,LUBUSKIE,2020,boczek wedzony,30.13
+1000000,LODZKIE,2020,boczek wedzony,26.25
+1200000,MALOPOLSKIE,2020,boczek wedzony,26.18
+1400000,MAZOWIECKIE,2020,boczek wedzony,27.15
+1600000,OPOLSKIE,2020,boczek wedzony,29.64
+1800000,PODKARPACKIE,2020,boczek wedzony,26.86
+2000000,PODLASKIE,2020,boczek wedzony,29.15
+200000,DOLNOSLASKIE,2021,boczek wedzony,29.40
+400000,KUJAWSKO-POMORSKIE,2021,boczek wedzony,28.90
+600000,LUBELSKIE,2021,boczek wedzony,27.43
+800000,LUBUSKIE,2021,boczek wedzony,29.68
+1000000,LODZKIE,2021,boczek wedzony,25.71
+1200000,MALOPOLSKIE,2021,boczek wedzony,26.77
+1400000,MAZOWIECKIE,2021,boczek wedzony,27.41
+1600000,OPOLSKIE,2021,boczek wedzony,30.16
+1800000,PODKARPACKIE,2021,boczek wedzony,26.79
+2000000,PODLASKIE,2021,boczek wedzony,28.52
+200000,DOLNOSLASKIE,2022,boczek wedzony,30.87
+400000,KUJAWSKO-POMORSKIE,2022,boczek wedzony,33.86
+600000,LUBELSKIE,2022,boczek wedzony,31.07
+800000,LUBUSKIE,2022,boczek wedzony,31.98
+1000000,LODZKIE,2022,boczek wedzony,29.57
+1200000,MALOPOLSKIE,2022,boczek wedzony,29.51
+1400000,MAZOWIECKIE,2022,boczek wedzony,29.61
+1600000,OPOLSKIE,2022,boczek wedzony,34.04
+1800000,PODKARPACKIE,2022,boczek wedzony,28.10
+2000000,PODLASKIE,2022,boczek wedzony,31.19
+200000,DOLNOSLASKIE,2002,poledwica drobiowa,15.97
+400000,KUJAWSKO-POMORSKIE,2002,poledwica drobiowa,15.64
+600000,LUBELSKIE,2002,poledwica drobiowa,14.92
+800000,LUBUSKIE,2002,poledwica drobiowa,17.11
+1000000,LODZKIE,2002,poledwica drobiowa,16.31
+1200000,MALOPOLSKIE,2002,poledwica drobiowa,15.98
+1400000,MAZOWIECKIE,2002,poledwica drobiowa,16.70
+1600000,OPOLSKIE,2002,poledwica drobiowa,15.22
+1800000,PODKARPACKIE,2002,poledwica drobiowa,14.93
+2000000,PODLASKIE,2002,poledwica drobiowa,14.24
+200000,DOLNOSLASKIE,2003,poledwica drobiowa,14.99
+400000,KUJAWSKO-POMORSKIE,2003,poledwica drobiowa,14.65
+600000,LUBELSKIE,2003,poledwica drobiowa,14.02
+800000,LUBUSKIE,2003,poledwica drobiowa,16.19
+1000000,LODZKIE,2003,poledwica drobiowa,15.79
+1200000,MALOPOLSKIE,2003,poledwica drobiowa,15.73
+1400000,MAZOWIECKIE,2003,poledwica drobiowa,15.82
+1600000,OPOLSKIE,2003,poledwica drobiowa,15.38
+1800000,PODKARPACKIE,2003,poledwica drobiowa,14.19
+2000000,PODLASKIE,2003,poledwica drobiowa,13.49
+200000,DOLNOSLASKIE,2004,poledwica drobiowa,15.54
+400000,KUJAWSKO-POMORSKIE,2004,poledwica drobiowa,15.49
+600000,LUBELSKIE,2004,poledwica drobiowa,14.63
+800000,LUBUSKIE,2004,poledwica drobiowa,17.56
+1000000,LODZKIE,2004,poledwica drobiowa,16.33
+1200000,MALOPOLSKIE,2004,poledwica drobiowa,16.61
+1400000,MAZOWIECKIE,2004,poledwica drobiowa,15.82
+1600000,OPOLSKIE,2004,poledwica drobiowa,16.11
+1800000,PODKARPACKIE,2004,poledwica drobiowa,14.68
+2000000,PODLASKIE,2004,poledwica drobiowa,14.14
+200000,DOLNOSLASKIE,2005,poledwica drobiowa,15.94
+400000,KUJAWSKO-POMORSKIE,2005,poledwica drobiowa,15.93
+600000,LUBELSKIE,2005,poledwica drobiowa,14.82
+800000,LUBUSKIE,2005,poledwica drobiowa,18.28
+1000000,LODZKIE,2005,poledwica drobiowa,16.72
+1200000,MALOPOLSKIE,2005,poledwica drobiowa,16.88
+1400000,MAZOWIECKIE,2005,poledwica drobiowa,15.72
+1600000,OPOLSKIE,2005,poledwica drobiowa,16.16
+1800000,PODKARPACKIE,2005,poledwica drobiowa,14.57
+2000000,PODLASKIE,2005,poledwica drobiowa,14.48
+200000,DOLNOSLASKIE,2006,poledwica drobiowa,16.04
+400000,KUJAWSKO-POMORSKIE,2006,poledwica drobiowa,15.50
+600000,LUBELSKIE,2006,poledwica drobiowa,14.27
+800000,LUBUSKIE,2006,poledwica drobiowa,17.26
+1000000,LODZKIE,2006,poledwica drobiowa,16.32
+1200000,MALOPOLSKIE,2006,poledwica drobiowa,16.13
+1400000,MAZOWIECKIE,2006,poledwica drobiowa,15.30
+1600000,OPOLSKIE,2006,poledwica drobiowa,15.35
+1800000,PODKARPACKIE,2006,poledwica drobiowa,14.23
+2000000,PODLASKIE,2006,poledwica drobiowa,14.18
+200000,DOLNOSLASKIE,2007,poledwica drobiowa,16.67
+400000,KUJAWSKO-POMORSKIE,2007,poledwica drobiowa,16.25
+600000,LUBELSKIE,2007,poledwica drobiowa,15.06
+800000,LUBUSKIE,2007,poledwica drobiowa,17.44
+1000000,LODZKIE,2007,poledwica drobiowa,16.53
+1200000,MALOPOLSKIE,2007,poledwica drobiowa,16.59
+1400000,MAZOWIECKIE,2007,poledwica drobiowa,15.60
+1600000,OPOLSKIE,2007,poledwica drobiowa,16.16
+1800000,PODKARPACKIE,2007,poledwica drobiowa,15.03
+2000000,PODLASKIE,2007,poledwica drobiowa,14.82
+200000,DOLNOSLASKIE,2008,poledwica drobiowa,17.93
+400000,KUJAWSKO-POMORSKIE,2008,poledwica drobiowa,16.95
+600000,LUBELSKIE,2008,poledwica drobiowa,16.16
+800000,LUBUSKIE,2008,poledwica drobiowa,18.21
+1000000,LODZKIE,2008,poledwica drobiowa,17.87
+1200000,MALOPOLSKIE,2008,poledwica drobiowa,17.06
+1400000,MAZOWIECKIE,2008,poledwica drobiowa,17.55
+1600000,OPOLSKIE,2008,poledwica drobiowa,16.93
+1800000,PODKARPACKIE,2008,poledwica drobiowa,16.24
+2000000,PODLASKIE,2008,poledwica drobiowa,15.46
+200000,DOLNOSLASKIE,2009,poledwica drobiowa,17.88
+400000,KUJAWSKO-POMORSKIE,2009,poledwica drobiowa,17.79
+600000,LUBELSKIE,2009,poledwica drobiowa,17.01
+800000,LUBUSKIE,2009,poledwica drobiowa,16.83
+1000000,LODZKIE,2009,poledwica drobiowa,18.09
+1200000,MALOPOLSKIE,2009,poledwica drobiowa,17.15
+1400000,MAZOWIECKIE,2009,poledwica drobiowa,17.51
+1600000,OPOLSKIE,2009,poledwica drobiowa,17.56
+1800000,PODKARPACKIE,2009,poledwica drobiowa,17.00
+2000000,PODLASKIE,2009,poledwica drobiowa,15.31
+200000,DOLNOSLASKIE,2010,poledwica drobiowa,17.76
+400000,KUJAWSKO-POMORSKIE,2010,poledwica drobiowa,18.64
+600000,LUBELSKIE,2010,poledwica drobiowa,16.28
+800000,LUBUSKIE,2010,poledwica drobiowa,16.62
+1000000,LODZKIE,2010,poledwica drobiowa,17.79
+1200000,MALOPOLSKIE,2010,poledwica drobiowa,17.40
+1400000,MAZOWIECKIE,2010,poledwica drobiowa,18.06
+1600000,OPOLSKIE,2010,poledwica drobiowa,16.29
+1800000,PODKARPACKIE,2010,poledwica drobiowa,16.49
+2000000,PODLASKIE,2010,poledwica drobiowa,15.58
+200000,DOLNOSLASKIE,2011,poledwica drobiowa,18.31
+400000,KUJAWSKO-POMORSKIE,2011,poledwica drobiowa,19.03
+600000,LUBELSKIE,2011,poledwica drobiowa,17.04
+800000,LUBUSKIE,2011,poledwica drobiowa,16.58
+1000000,LODZKIE,2011,poledwica drobiowa,17.54
+1200000,MALOPOLSKIE,2011,poledwica drobiowa,17.61
+1400000,MAZOWIECKIE,2011,poledwica drobiowa,18.28
+1600000,OPOLSKIE,2011,poledwica drobiowa,16.27
+1800000,PODKARPACKIE,2011,poledwica drobiowa,16.13
+2000000,PODLASKIE,2011,poledwica drobiowa,16.03
+200000,DOLNOSLASKIE,2012,poledwica drobiowa,18.51
+400000,KUJAWSKO-POMORSKIE,2012,poledwica drobiowa,20.57
+600000,LUBELSKIE,2012,poledwica drobiowa,18.67
+800000,LUBUSKIE,2012,poledwica drobiowa,18.02
+1000000,LODZKIE,2012,poledwica drobiowa,18.74
+1200000,MALOPOLSKIE,2012,poledwica drobiowa,17.62
+1400000,MAZOWIECKIE,2012,poledwica drobiowa,19.15
+1600000,OPOLSKIE,2012,poledwica drobiowa,17.70
+1800000,PODKARPACKIE,2012,poledwica drobiowa,17.18
+2000000,PODLASKIE,2012,poledwica drobiowa,16.64
+200000,DOLNOSLASKIE,2013,poledwica drobiowa,18.18
+400000,KUJAWSKO-POMORSKIE,2013,poledwica drobiowa,21.83
+600000,LUBELSKIE,2013,poledwica drobiowa,18.14
+800000,LUBUSKIE,2013,poledwica drobiowa,18.54
+1000000,LODZKIE,2013,poledwica drobiowa,18.95
+1200000,MALOPOLSKIE,2013,poledwica drobiowa,17.60
+1400000,MAZOWIECKIE,2013,poledwica drobiowa,18.63
+1600000,OPOLSKIE,2013,poledwica drobiowa,18.18
+1800000,PODKARPACKIE,2013,poledwica drobiowa,17.42
+2000000,PODLASKIE,2013,poledwica drobiowa,17.00
+200000,DOLNOSLASKIE,2014,poledwica drobiowa,19.16
+400000,KUJAWSKO-POMORSKIE,2014,poledwica drobiowa,22.17
+600000,LUBELSKIE,2014,poledwica drobiowa,17.90
+800000,LUBUSKIE,2014,poledwica drobiowa,18.99
+1000000,LODZKIE,2014,poledwica drobiowa,18.92
+1200000,MALOPOLSKIE,2014,poledwica drobiowa,16.79
+1400000,MAZOWIECKIE,2014,poledwica drobiowa,18.71
+1600000,OPOLSKIE,2014,poledwica drobiowa,17.72
+1800000,PODKARPACKIE,2014,poledwica drobiowa,17.48
+2000000,PODLASKIE,2014,poledwica drobiowa,17.00
+200000,DOLNOSLASKIE,2015,poledwica drobiowa,18.93
+400000,KUJAWSKO-POMORSKIE,2015,poledwica drobiowa,21.20
+600000,LUBELSKIE,2015,poledwica drobiowa,16.79
+800000,LUBUSKIE,2015,poledwica drobiowa,17.87
+1000000,LODZKIE,2015,poledwica drobiowa,19.27
+1200000,MALOPOLSKIE,2015,poledwica drobiowa,16.42
+1400000,MAZOWIECKIE,2015,poledwica drobiowa,18.43
+1600000,OPOLSKIE,2015,poledwica drobiowa,18.65
+1800000,PODKARPACKIE,2015,poledwica drobiowa,17.74
+2000000,PODLASKIE,2015,poledwica drobiowa,16.67
+200000,DOLNOSLASKIE,2016,poledwica drobiowa,17.92
+400000,KUJAWSKO-POMORSKIE,2016,poledwica drobiowa,21.09
+600000,LUBELSKIE,2016,poledwica drobiowa,16.68
+800000,LUBUSKIE,2016,poledwica drobiowa,17.21
+1000000,LODZKIE,2016,poledwica drobiowa,19.84
+1200000,MALOPOLSKIE,2016,poledwica drobiowa,16.90
+1400000,MAZOWIECKIE,2016,poledwica drobiowa,18.36
+1600000,OPOLSKIE,2016,poledwica drobiowa,17.95
+1800000,PODKARPACKIE,2016,poledwica drobiowa,17.68
+2000000,PODLASKIE,2016,poledwica drobiowa,17.22
+200000,DOLNOSLASKIE,2017,poledwica drobiowa,17.97
+400000,KUJAWSKO-POMORSKIE,2017,poledwica drobiowa,21.32
+600000,LUBELSKIE,2017,poledwica drobiowa,16.73
+800000,LUBUSKIE,2017,poledwica drobiowa,18.29
+1000000,LODZKIE,2017,poledwica drobiowa,19.47
+1200000,MALOPOLSKIE,2017,poledwica drobiowa,16.21
+1400000,MAZOWIECKIE,2017,poledwica drobiowa,18.43
+1600000,OPOLSKIE,2017,poledwica drobiowa,18.71
+1800000,PODKARPACKIE,2017,poledwica drobiowa,17.99
+2000000,PODLASKIE,2017,poledwica drobiowa,17.48
+200000,DOLNOSLASKIE,2018,poledwica drobiowa,18.30
+400000,KUJAWSKO-POMORSKIE,2018,poledwica drobiowa,22.23
+600000,LUBELSKIE,2018,poledwica drobiowa,16.53
+800000,LUBUSKIE,2018,poledwica drobiowa,18.42
+1000000,LODZKIE,2018,poledwica drobiowa,19.37
+1200000,MALOPOLSKIE,2018,poledwica drobiowa,16.88
+1400000,MAZOWIECKIE,2018,poledwica drobiowa,18.23
+1600000,OPOLSKIE,2018,poledwica drobiowa,19.47
+1800000,PODKARPACKIE,2018,poledwica drobiowa,18.41
+2000000,PODLASKIE,2018,poledwica drobiowa,17.52
+200000,DOLNOSLASKIE,2019,poledwica drobiowa,19.80
+400000,KUJAWSKO-POMORSKIE,2019,poledwica drobiowa,22.16
+600000,LUBELSKIE,2019,poledwica drobiowa,16.97
+800000,LUBUSKIE,2019,poledwica drobiowa,19.41
+1000000,LODZKIE,2019,poledwica drobiowa,19.86
+1200000,MALOPOLSKIE,2019,poledwica drobiowa,18.41
+1400000,MAZOWIECKIE,2019,poledwica drobiowa,19.72
+1600000,OPOLSKIE,2019,poledwica drobiowa,20.18
+1800000,PODKARPACKIE,2019,poledwica drobiowa,18.97
+2000000,PODLASKIE,2019,poledwica drobiowa,20.08
+200000,DOLNOSLASKIE,2020,poledwica drobiowa,21.20
+400000,KUJAWSKO-POMORSKIE,2020,poledwica drobiowa,23.84
+600000,LUBELSKIE,2020,poledwica drobiowa,18.67
+800000,LUBUSKIE,2020,poledwica drobiowa,19.98
+1000000,LODZKIE,2020,poledwica drobiowa,21.33
+1200000,MALOPOLSKIE,2020,poledwica drobiowa,20.15
+1400000,MAZOWIECKIE,2020,poledwica drobiowa,19.77
+1600000,OPOLSKIE,2020,poledwica drobiowa,21.09
+1800000,PODKARPACKIE,2020,poledwica drobiowa,19.81
+2000000,PODLASKIE,2020,poledwica drobiowa,22.48
+200000,DOLNOSLASKIE,2021,poledwica drobiowa,22.04
+400000,KUJAWSKO-POMORSKIE,2021,poledwica drobiowa,25.59
+600000,LUBELSKIE,2021,poledwica drobiowa,18.76
+800000,LUBUSKIE,2021,poledwica drobiowa,20.64
+1000000,LODZKIE,2021,poledwica drobiowa,19.98
+1200000,MALOPOLSKIE,2021,poledwica drobiowa,22.58
+1400000,MAZOWIECKIE,2021,poledwica drobiowa,20.05
+1600000,OPOLSKIE,2021,poledwica drobiowa,20.40
+1800000,PODKARPACKIE,2021,poledwica drobiowa,20.21
+2000000,PODLASKIE,2021,poledwica drobiowa,23.24
+200000,DOLNOSLASKIE,2022,poledwica drobiowa,25.06
+400000,KUJAWSKO-POMORSKIE,2022,poledwica drobiowa,28.07
+600000,LUBELSKIE,2022,poledwica drobiowa,21.52
+800000,LUBUSKIE,2022,poledwica drobiowa,24.94
+1000000,LODZKIE,2022,poledwica drobiowa,23.57
+1200000,MALOPOLSKIE,2022,poledwica drobiowa,26.62
+1400000,MAZOWIECKIE,2022,poledwica drobiowa,24.26
+1600000,OPOLSKIE,2022,poledwica drobiowa,24.56
+1800000,PODKARPACKIE,2022,poledwica drobiowa,25.25
+2000000,PODLASKIE,2022,poledwica drobiowa,27.72
+200000,DOLNOSLASKIE,2002,salceson,7.80
+400000,KUJAWSKO-POMORSKIE,2002,salceson,7.53
+600000,LUBELSKIE,2002,salceson,7.53
+800000,LUBUSKIE,2002,salceson,8.74
+1000000,LODZKIE,2002,salceson,8.69
+1200000,MALOPOLSKIE,2002,salceson,9.03
+1400000,MAZOWIECKIE,2002,salceson,8.64
+1600000,OPOLSKIE,2002,salceson,7.99
+1800000,PODKARPACKIE,2002,salceson,8.54
+2000000,PODLASKIE,2002,salceson,8.56
+200000,DOLNOSLASKIE,2003,salceson,7.63
+400000,KUJAWSKO-POMORSKIE,2003,salceson,7.03
+600000,LUBELSKIE,2003,salceson,6.73
+800000,LUBUSKIE,2003,salceson,9.47
+1000000,LODZKIE,2003,salceson,8.32
+1200000,MALOPOLSKIE,2003,salceson,8.87
+1400000,MAZOWIECKIE,2003,salceson,8.18
+1600000,OPOLSKIE,2003,salceson,7.77
+1800000,PODKARPACKIE,2003,salceson,8.41
+2000000,PODLASKIE,2003,salceson,8.29
+200000,DOLNOSLASKIE,2004,salceson,8.45
+400000,KUJAWSKO-POMORSKIE,2004,salceson,7.95
+600000,LUBELSKIE,2004,salceson,7.90
+800000,LUBUSKIE,2004,salceson,10.51
+1000000,LODZKIE,2004,salceson,8.94
+1200000,MALOPOLSKIE,2004,salceson,9.73
+1400000,MAZOWIECKIE,2004,salceson,8.86
+1600000,OPOLSKIE,2004,salceson,8.54
+1800000,PODKARPACKIE,2004,salceson,9.16
+2000000,PODLASKIE,2004,salceson,9.89
+200000,DOLNOSLASKIE,2005,salceson,9.07
+400000,KUJAWSKO-POMORSKIE,2005,salceson,8.46
+600000,LUBELSKIE,2005,salceson,8.10
+800000,LUBUSKIE,2005,salceson,10.45
+1000000,LODZKIE,2005,salceson,9.23
+1200000,MALOPOLSKIE,2005,salceson,10.16
+1400000,MAZOWIECKIE,2005,salceson,9.55
+1600000,OPOLSKIE,2005,salceson,9.07
+1800000,PODKARPACKIE,2005,salceson,9.63
+2000000,PODLASKIE,2005,salceson,10.37
+200000,DOLNOSLASKIE,2006,salceson,9.38
+400000,KUJAWSKO-POMORSKIE,2006,salceson,9.28
+600000,LUBELSKIE,2006,salceson,7.76
+800000,LUBUSKIE,2006,salceson,9.92
+1000000,LODZKIE,2006,salceson,8.48
+1200000,MALOPOLSKIE,2006,salceson,9.71
+1400000,MAZOWIECKIE,2006,salceson,9.29
+1600000,OPOLSKIE,2006,salceson,8.15
+1800000,PODKARPACKIE,2006,salceson,8.98
+2000000,PODLASKIE,2006,salceson,9.31
+200000,DOLNOSLASKIE,2007,salceson,9.93
+400000,KUJAWSKO-POMORSKIE,2007,salceson,10.13
+600000,LUBELSKIE,2007,salceson,8.02
+800000,LUBUSKIE,2007,salceson,10.38
+1000000,LODZKIE,2007,salceson,8.60
+1200000,MALOPOLSKIE,2007,salceson,10.23
+1400000,MAZOWIECKIE,2007,salceson,9.76
+1600000,OPOLSKIE,2007,salceson,8.50
+1800000,PODKARPACKIE,2007,salceson,9.14
+2000000,PODLASKIE,2007,salceson,9.41
+200000,DOLNOSLASKIE,2008,salceson,11.07
+400000,KUJAWSKO-POMORSKIE,2008,salceson,11.44
+600000,LUBELSKIE,2008,salceson,8.44
+800000,LUBUSKIE,2008,salceson,10.84
+1000000,LODZKIE,2008,salceson,9.44
+1200000,MALOPOLSKIE,2008,salceson,11.33
+1400000,MAZOWIECKIE,2008,salceson,11.36
+1600000,OPOLSKIE,2008,salceson,8.96
+1800000,PODKARPACKIE,2008,salceson,9.98
+2000000,PODLASKIE,2008,salceson,10.38
+200000,DOLNOSLASKIE,2009,salceson,12.53
+400000,KUJAWSKO-POMORSKIE,2009,salceson,12.83
+600000,LUBELSKIE,2009,salceson,9.92
+800000,LUBUSKIE,2009,salceson,11.89
+1000000,LODZKIE,2009,salceson,10.28
+1200000,MALOPOLSKIE,2009,salceson,12.31
+1400000,MAZOWIECKIE,2009,salceson,12.64
+1600000,OPOLSKIE,2009,salceson,10.63
+1800000,PODKARPACKIE,2009,salceson,11.56
+2000000,PODLASKIE,2009,salceson,11.98
+200000,DOLNOSLASKIE,2010,salceson,13.40
+400000,KUJAWSKO-POMORSKIE,2010,salceson,13.80
+600000,LUBELSKIE,2010,salceson,10.35
+800000,LUBUSKIE,2010,salceson,11.21
+1000000,LODZKIE,2010,salceson,10.39
+1200000,MALOPOLSKIE,2010,salceson,12.90
+1400000,MAZOWIECKIE,2010,salceson,12.74
+1600000,OPOLSKIE,2010,salceson,10.00
+1800000,PODKARPACKIE,2010,salceson,12.14
+2000000,PODLASKIE,2010,salceson,12.29
+200000,DOLNOSLASKIE,2011,salceson,14.38
+400000,KUJAWSKO-POMORSKIE,2011,salceson,14.49
+600000,LUBELSKIE,2011,salceson,10.70
+800000,LUBUSKIE,2011,salceson,11.57
+1000000,LODZKIE,2011,salceson,10.70
+1200000,MALOPOLSKIE,2011,salceson,13.77
+1400000,MAZOWIECKIE,2011,salceson,13.22
+1600000,OPOLSKIE,2011,salceson,10.38
+1800000,PODKARPACKIE,2011,salceson,12.86
+2000000,PODLASKIE,2011,salceson,12.46
+200000,DOLNOSLASKIE,2012,salceson,16.07
+400000,KUJAWSKO-POMORSKIE,2012,salceson,15.77
+600000,LUBELSKIE,2012,salceson,12.20
+800000,LUBUSKIE,2012,salceson,14.02
+1000000,LODZKIE,2012,salceson,12.53
+1200000,MALOPOLSKIE,2012,salceson,15.14
+1400000,MAZOWIECKIE,2012,salceson,14.30
+1600000,OPOLSKIE,2012,salceson,11.85
+1800000,PODKARPACKIE,2012,salceson,14.26
+2000000,PODLASKIE,2012,salceson,14.06
+200000,DOLNOSLASKIE,2013,salceson,18.36
+400000,KUJAWSKO-POMORSKIE,2013,salceson,17.05
+600000,LUBELSKIE,2013,salceson,12.59
+800000,LUBUSKIE,2013,salceson,15.25
+1000000,LODZKIE,2013,salceson,13.09
+1200000,MALOPOLSKIE,2013,salceson,16.04
+1400000,MAZOWIECKIE,2013,salceson,14.45
+1600000,OPOLSKIE,2013,salceson,12.43
+1800000,PODKARPACKIE,2013,salceson,14.57
+2000000,PODLASKIE,2013,salceson,14.27
+200000,DOLNOSLASKIE,2014,salceson,19.50
+400000,KUJAWSKO-POMORSKIE,2014,salceson,17.81
+600000,LUBELSKIE,2014,salceson,12.70
+800000,LUBUSKIE,2014,salceson,15.90
+1000000,LODZKIE,2014,salceson,12.98
+1200000,MALOPOLSKIE,2014,salceson,16.39
+1400000,MAZOWIECKIE,2014,salceson,14.88
+1600000,OPOLSKIE,2014,salceson,12.98
+1800000,PODKARPACKIE,2014,salceson,15.33
+2000000,PODLASKIE,2014,salceson,14.70
+200000,DOLNOSLASKIE,2015,salceson,19.16
+400000,KUJAWSKO-POMORSKIE,2015,salceson,18.04
+600000,LUBELSKIE,2015,salceson,12.43
+800000,LUBUSKIE,2015,salceson,16.51
+1000000,LODZKIE,2015,salceson,12.99
+1200000,MALOPOLSKIE,2015,salceson,16.38
+1400000,MAZOWIECKIE,2015,salceson,14.23
+1600000,OPOLSKIE,2015,salceson,13.54
+1800000,PODKARPACKIE,2015,salceson,15.53
+2000000,PODLASKIE,2015,salceson,14.05
+200000,DOLNOSLASKIE,2016,salceson,19.36
+400000,KUJAWSKO-POMORSKIE,2016,salceson,18.37
+600000,LUBELSKIE,2016,salceson,12.72
+800000,LUBUSKIE,2016,salceson,15.82
+1000000,LODZKIE,2016,salceson,13.00
+1200000,MALOPOLSKIE,2016,salceson,15.20
+1400000,MAZOWIECKIE,2016,salceson,14.07
+1600000,OPOLSKIE,2016,salceson,13.76
+1800000,PODKARPACKIE,2016,salceson,15.11
+2000000,PODLASKIE,2016,salceson,14.26
+200000,DOLNOSLASKIE,2017,salceson,19.35
+400000,KUJAWSKO-POMORSKIE,2017,salceson,18.65
+600000,LUBELSKIE,2017,salceson,14.07
+800000,LUBUSKIE,2017,salceson,16.40
+1000000,LODZKIE,2017,salceson,14.53
+1200000,MALOPOLSKIE,2017,salceson,14.74
+1400000,MAZOWIECKIE,2017,salceson,14.59
+1600000,OPOLSKIE,2017,salceson,15.30
+1800000,PODKARPACKIE,2017,salceson,15.07
+2000000,PODLASKIE,2017,salceson,14.97
+200000,DOLNOSLASKIE,2018,salceson,19.28
+400000,KUJAWSKO-POMORSKIE,2018,salceson,19.84
+600000,LUBELSKIE,2018,salceson,14.91
+800000,LUBUSKIE,2018,salceson,17.03
+1000000,LODZKIE,2018,salceson,14.89
+1200000,MALOPOLSKIE,2018,salceson,15.95
+1400000,MAZOWIECKIE,2018,salceson,15.70
+1600000,OPOLSKIE,2018,salceson,16.18
+1800000,PODKARPACKIE,2018,salceson,15.63
+2000000,PODLASKIE,2018,salceson,16.25
+200000,DOLNOSLASKIE,2019,salceson,20.33
+400000,KUJAWSKO-POMORSKIE,2019,salceson,21.80
+600000,LUBELSKIE,2019,salceson,16.00
+800000,LUBUSKIE,2019,salceson,18.27
+1000000,LODZKIE,2019,salceson,16.13
+1200000,MALOPOLSKIE,2019,salceson,18.12
+1400000,MAZOWIECKIE,2019,salceson,16.17
+1600000,OPOLSKIE,2019,salceson,17.88
+1800000,PODKARPACKIE,2019,salceson,16.20
+2000000,PODLASKIE,2019,salceson,17.24
+200000,DOLNOSLASKIE,2020,salceson,22.57
+400000,KUJAWSKO-POMORSKIE,2020,salceson,23.69
+600000,LUBELSKIE,2020,salceson,18.10
+800000,LUBUSKIE,2020,salceson,19.10
+1000000,LODZKIE,2020,salceson,17.67
+1200000,MALOPOLSKIE,2020,salceson,20.26
+1400000,MAZOWIECKIE,2020,salceson,18.13
+1600000,OPOLSKIE,2020,salceson,21.09
+1800000,PODKARPACKIE,2020,salceson,17.94
+2000000,PODLASKIE,2020,salceson,19.61
+200000,DOLNOSLASKIE,2021,salceson,22.09
+400000,KUJAWSKO-POMORSKIE,2021,salceson,24.57
+600000,LUBELSKIE,2021,salceson,18.75
+800000,LUBUSKIE,2021,salceson,18.01
+1000000,LODZKIE,2021,salceson,17.47
+1200000,MALOPOLSKIE,2021,salceson,20.55
+1400000,MAZOWIECKIE,2021,salceson,18.35
+1600000,OPOLSKIE,2021,salceson,20.75
+1800000,PODKARPACKIE,2021,salceson,19.23
+2000000,PODLASKIE,2021,salceson,19.43
+200000,DOLNOSLASKIE,2022,salceson,25.09
+400000,KUJAWSKO-POMORSKIE,2022,salceson,27.16
+600000,LUBELSKIE,2022,salceson,21.05
+800000,LUBUSKIE,2022,salceson,20.81
+1000000,LODZKIE,2022,salceson,20.70
+1200000,MALOPOLSKIE,2022,salceson,23.33
+1400000,MAZOWIECKIE,2022,salceson,21.01
+1600000,OPOLSKIE,2022,salceson,22.46
+1800000,PODKARPACKIE,2022,salceson,24.29
+2000000,PODLASKIE,2022,salceson,22.04
+200000,DOLNOSLASKIE,2002,kiszka kaszana,5.37
+400000,KUJAWSKO-POMORSKIE,2002,kiszka kaszana,5.23
+600000,LUBELSKIE,2002,kiszka kaszana,5.72
+800000,LUBUSKIE,2002,kiszka kaszana,5.43
+1000000,LODZKIE,2002,kiszka kaszana,5.44
+1200000,MALOPOLSKIE,2002,kiszka kaszana,5.26
+1400000,MAZOWIECKIE,2002,kiszka kaszana,5.52
+1600000,OPOLSKIE,2002,kiszka kaszana,5.55
+1800000,PODKARPACKIE,2002,kiszka kaszana,5.12
+2000000,PODLASKIE,2002,kiszka kaszana,5.25
+200000,DOLNOSLASKIE,2003,kiszka kaszana,5.13
+400000,KUJAWSKO-POMORSKIE,2003,kiszka kaszana,4.96
+600000,LUBELSKIE,2003,kiszka kaszana,5.18
+800000,LUBUSKIE,2003,kiszka kaszana,5.09
+1000000,LODZKIE,2003,kiszka kaszana,5.30
+1200000,MALOPOLSKIE,2003,kiszka kaszana,5.00
+1400000,MAZOWIECKIE,2003,kiszka kaszana,5.33
+1600000,OPOLSKIE,2003,kiszka kaszana,5.35
+1800000,PODKARPACKIE,2003,kiszka kaszana,5.12
+2000000,PODLASKIE,2003,kiszka kaszana,5.47
+200000,DOLNOSLASKIE,2004,kiszka kaszana,5.71
+400000,KUJAWSKO-POMORSKIE,2004,kiszka kaszana,5.45
+600000,LUBELSKIE,2004,kiszka kaszana,5.94
+800000,LUBUSKIE,2004,kiszka kaszana,5.55
+1000000,LODZKIE,2004,kiszka kaszana,5.82
+1200000,MALOPOLSKIE,2004,kiszka kaszana,5.39
+1400000,MAZOWIECKIE,2004,kiszka kaszana,5.75
+1600000,OPOLSKIE,2004,kiszka kaszana,5.77
+1800000,PODKARPACKIE,2004,kiszka kaszana,5.62
+2000000,PODLASKIE,2004,kiszka kaszana,6.81
+200000,DOLNOSLASKIE,2005,kiszka kaszana,6.17
+400000,KUJAWSKO-POMORSKIE,2005,kiszka kaszana,5.64
+600000,LUBELSKIE,2005,kiszka kaszana,6.31
+800000,LUBUSKIE,2005,kiszka kaszana,5.88
+1000000,LODZKIE,2005,kiszka kaszana,5.96
+1200000,MALOPOLSKIE,2005,kiszka kaszana,5.43
+1400000,MAZOWIECKIE,2005,kiszka kaszana,6.13
+1600000,OPOLSKIE,2005,kiszka kaszana,6.12
+1800000,PODKARPACKIE,2005,kiszka kaszana,5.93
+2000000,PODLASKIE,2005,kiszka kaszana,7.72
+200000,DOLNOSLASKIE,2006,kiszka kaszana,6.34
+400000,KUJAWSKO-POMORSKIE,2006,kiszka kaszana,5.78
+600000,LUBELSKIE,2006,kiszka kaszana,6.37
+800000,LUBUSKIE,2006,kiszka kaszana,5.87
+1000000,LODZKIE,2006,kiszka kaszana,5.77
+1200000,MALOPOLSKIE,2006,kiszka kaszana,5.15
+1400000,MAZOWIECKIE,2006,kiszka kaszana,6.28
+1600000,OPOLSKIE,2006,kiszka kaszana,6.19
+1800000,PODKARPACKIE,2006,kiszka kaszana,5.96
+2000000,PODLASKIE,2006,kiszka kaszana,7.14
+200000,DOLNOSLASKIE,2007,kiszka kaszana,6.76
+400000,KUJAWSKO-POMORSKIE,2007,kiszka kaszana,6.17
+600000,LUBELSKIE,2007,kiszka kaszana,6.91
+800000,LUBUSKIE,2007,kiszka kaszana,5.83
+1000000,LODZKIE,2007,kiszka kaszana,5.96
+1200000,MALOPOLSKIE,2007,kiszka kaszana,5.36
+1400000,MAZOWIECKIE,2007,kiszka kaszana,6.68
+1600000,OPOLSKIE,2007,kiszka kaszana,5.87
+1800000,PODKARPACKIE,2007,kiszka kaszana,6.01
+2000000,PODLASKIE,2007,kiszka kaszana,7.56
+200000,DOLNOSLASKIE,2008,kiszka kaszana,7.52
+400000,KUJAWSKO-POMORSKIE,2008,kiszka kaszana,6.98
+600000,LUBELSKIE,2008,kiszka kaszana,7.17
+800000,LUBUSKIE,2008,kiszka kaszana,6.17
+1000000,LODZKIE,2008,kiszka kaszana,6.43
+1200000,MALOPOLSKIE,2008,kiszka kaszana,6.01
+1400000,MAZOWIECKIE,2008,kiszka kaszana,7.65
+1600000,OPOLSKIE,2008,kiszka kaszana,6.60
+1800000,PODKARPACKIE,2008,kiszka kaszana,6.65
+2000000,PODLASKIE,2008,kiszka kaszana,7.97
+200000,DOLNOSLASKIE,2009,kiszka kaszana,8.40
+400000,KUJAWSKO-POMORSKIE,2009,kiszka kaszana,8.32
+600000,LUBELSKIE,2009,kiszka kaszana,8.23
+800000,LUBUSKIE,2009,kiszka kaszana,7.64
+1000000,LODZKIE,2009,kiszka kaszana,7.32
+1200000,MALOPOLSKIE,2009,kiszka kaszana,6.87
+1400000,MAZOWIECKIE,2009,kiszka kaszana,8.66
+1600000,OPOLSKIE,2009,kiszka kaszana,7.59
+1800000,PODKARPACKIE,2009,kiszka kaszana,7.55
+2000000,PODLASKIE,2009,kiszka kaszana,8.65
+200000,DOLNOSLASKIE,2010,kiszka kaszana,8.84
+400000,KUJAWSKO-POMORSKIE,2010,kiszka kaszana,8.72
+600000,LUBELSKIE,2010,kiszka kaszana,8.66
+800000,LUBUSKIE,2010,kiszka kaszana,7.70
+1000000,LODZKIE,2010,kiszka kaszana,7.33
+1200000,MALOPOLSKIE,2010,kiszka kaszana,7.24
+1400000,MAZOWIECKIE,2010,kiszka kaszana,8.79
+1600000,OPOLSKIE,2010,kiszka kaszana,7.33
+1800000,PODKARPACKIE,2010,kiszka kaszana,7.61
+2000000,PODLASKIE,2010,kiszka kaszana,8.82
+200000,DOLNOSLASKIE,2011,kiszka kaszana,9.42
+400000,KUJAWSKO-POMORSKIE,2011,kiszka kaszana,8.98
+600000,LUBELSKIE,2011,kiszka kaszana,9.63
+800000,LUBUSKIE,2011,kiszka kaszana,8.12
+1000000,LODZKIE,2011,kiszka kaszana,8.52
+1200000,MALOPOLSKIE,2011,kiszka kaszana,7.51
+1400000,MAZOWIECKIE,2011,kiszka kaszana,9.82
+1600000,OPOLSKIE,2011,kiszka kaszana,7.83
+1800000,PODKARPACKIE,2011,kiszka kaszana,8.28
+2000000,PODLASKIE,2011,kiszka kaszana,9.56
+200000,DOLNOSLASKIE,2012,kiszka kaszana,10.12
+400000,KUJAWSKO-POMORSKIE,2012,kiszka kaszana,10.46
+600000,LUBELSKIE,2012,kiszka kaszana,10.40
+800000,LUBUSKIE,2012,kiszka kaszana,9.06
+1000000,LODZKIE,2012,kiszka kaszana,9.25
+1200000,MALOPOLSKIE,2012,kiszka kaszana,8.42
+1400000,MAZOWIECKIE,2012,kiszka kaszana,10.89
+1600000,OPOLSKIE,2012,kiszka kaszana,8.61
+1800000,PODKARPACKIE,2012,kiszka kaszana,9.37
+2000000,PODLASKIE,2012,kiszka kaszana,10.33
+200000,DOLNOSLASKIE,2013,kiszka kaszana,10.79
+400000,KUJAWSKO-POMORSKIE,2013,kiszka kaszana,11.05
+600000,LUBELSKIE,2013,kiszka kaszana,11.02
+800000,LUBUSKIE,2013,kiszka kaszana,9.93
+1000000,LODZKIE,2013,kiszka kaszana,9.54
+1200000,MALOPOLSKIE,2013,kiszka kaszana,9.04
+1400000,MAZOWIECKIE,2013,kiszka kaszana,10.61
+1600000,OPOLSKIE,2013,kiszka kaszana,9.13
+1800000,PODKARPACKIE,2013,kiszka kaszana,9.88
+2000000,PODLASKIE,2013,kiszka kaszana,10.84
+200000,DOLNOSLASKIE,2014,kiszka kaszana,10.85
+400000,KUJAWSKO-POMORSKIE,2014,kiszka kaszana,11.03
+600000,LUBELSKIE,2014,kiszka kaszana,11.09
+800000,LUBUSKIE,2014,kiszka kaszana,10.39
+1000000,LODZKIE,2014,kiszka kaszana,9.35
+1200000,MALOPOLSKIE,2014,kiszka kaszana,9.32
+1400000,MAZOWIECKIE,2014,kiszka kaszana,10.94
+1600000,OPOLSKIE,2014,kiszka kaszana,9.44
+1800000,PODKARPACKIE,2014,kiszka kaszana,10.12
+2000000,PODLASKIE,2014,kiszka kaszana,10.66
+200000,DOLNOSLASKIE,2015,kiszka kaszana,10.92
+400000,KUJAWSKO-POMORSKIE,2015,kiszka kaszana,10.94
+600000,LUBELSKIE,2015,kiszka kaszana,11.12
+800000,LUBUSKIE,2015,kiszka kaszana,11.24
+1000000,LODZKIE,2015,kiszka kaszana,9.26
+1200000,MALOPOLSKIE,2015,kiszka kaszana,9.05
+1400000,MAZOWIECKIE,2015,kiszka kaszana,10.71
+1600000,OPOLSKIE,2015,kiszka kaszana,9.18
+1800000,PODKARPACKIE,2015,kiszka kaszana,9.97
+2000000,PODLASKIE,2015,kiszka kaszana,11.11
+200000,DOLNOSLASKIE,2016,kiszka kaszana,11.03
+400000,KUJAWSKO-POMORSKIE,2016,kiszka kaszana,11.11
+600000,LUBELSKIE,2016,kiszka kaszana,11.45
+800000,LUBUSKIE,2016,kiszka kaszana,11.27
+1000000,LODZKIE,2016,kiszka kaszana,9.35
+1200000,MALOPOLSKIE,2016,kiszka kaszana,8.67
+1400000,MAZOWIECKIE,2016,kiszka kaszana,10.39
+1600000,OPOLSKIE,2016,kiszka kaszana,9.51
+1800000,PODKARPACKIE,2016,kiszka kaszana,9.73
+2000000,PODLASKIE,2016,kiszka kaszana,11.86
+200000,DOLNOSLASKIE,2017,kiszka kaszana,11.67
+400000,KUJAWSKO-POMORSKIE,2017,kiszka kaszana,11.39
+600000,LUBELSKIE,2017,kiszka kaszana,12.98
+800000,LUBUSKIE,2017,kiszka kaszana,12.43
+1000000,LODZKIE,2017,kiszka kaszana,9.91
+1200000,MALOPOLSKIE,2017,kiszka kaszana,9.16
+1400000,MAZOWIECKIE,2017,kiszka kaszana,11.30
+1600000,OPOLSKIE,2017,kiszka kaszana,10.66
+1800000,PODKARPACKIE,2017,kiszka kaszana,10.31
+2000000,PODLASKIE,2017,kiszka kaszana,12.51
+200000,DOLNOSLASKIE,2018,kiszka kaszana,11.89
+400000,KUJAWSKO-POMORSKIE,2018,kiszka kaszana,11.88
+600000,LUBELSKIE,2018,kiszka kaszana,13.52
+800000,LUBUSKIE,2018,kiszka kaszana,12.82
+1000000,LODZKIE,2018,kiszka kaszana,10.48
+1200000,MALOPOLSKIE,2018,kiszka kaszana,9.39
+1400000,MAZOWIECKIE,2018,kiszka kaszana,12.17
+1600000,OPOLSKIE,2018,kiszka kaszana,10.80
+1800000,PODKARPACKIE,2018,kiszka kaszana,10.80
+2000000,PODLASKIE,2018,kiszka kaszana,12.68
+200000,DOLNOSLASKIE,2019,kiszka kaszana,12.71
+400000,KUJAWSKO-POMORSKIE,2019,kiszka kaszana,13.21
+600000,LUBELSKIE,2019,kiszka kaszana,14.21
+800000,LUBUSKIE,2019,kiszka kaszana,13.54
+1000000,LODZKIE,2019,kiszka kaszana,11.46
+1200000,MALOPOLSKIE,2019,kiszka kaszana,10.30
+1400000,MAZOWIECKIE,2019,kiszka kaszana,12.78
+1600000,OPOLSKIE,2019,kiszka kaszana,11.57
+1800000,PODKARPACKIE,2019,kiszka kaszana,11.56
+2000000,PODLASKIE,2019,kiszka kaszana,13.38
+200000,DOLNOSLASKIE,2020,kiszka kaszana,14.44
+400000,KUJAWSKO-POMORSKIE,2020,kiszka kaszana,14.56
+600000,LUBELSKIE,2020,kiszka kaszana,15.34
+800000,LUBUSKIE,2020,kiszka kaszana,13.98
+1000000,LODZKIE,2020,kiszka kaszana,13.19
+1200000,MALOPOLSKIE,2020,kiszka kaszana,11.83
+1400000,MAZOWIECKIE,2020,kiszka kaszana,14.42
+1600000,OPOLSKIE,2020,kiszka kaszana,12.78
+1800000,PODKARPACKIE,2020,kiszka kaszana,12.97
+2000000,PODLASKIE,2020,kiszka kaszana,14.33
+200000,DOLNOSLASKIE,2021,kiszka kaszana,14.76
+400000,KUJAWSKO-POMORSKIE,2021,kiszka kaszana,14.87
+600000,LUBELSKIE,2021,kiszka kaszana,15.26
+800000,LUBUSKIE,2021,kiszka kaszana,14.35
+1000000,LODZKIE,2021,kiszka kaszana,13.04
+1200000,MALOPOLSKIE,2021,kiszka kaszana,12.39
+1400000,MAZOWIECKIE,2021,kiszka kaszana,14.84
+1600000,OPOLSKIE,2021,kiszka kaszana,13.09
+1800000,PODKARPACKIE,2021,kiszka kaszana,13.23
+2000000,PODLASKIE,2021,kiszka kaszana,14.35
+200000,DOLNOSLASKIE,2022,kiszka kaszana,17.11
+400000,KUJAWSKO-POMORSKIE,2022,kiszka kaszana,18.28
+600000,LUBELSKIE,2022,kiszka kaszana,17.97
+800000,LUBUSKIE,2022,kiszka kaszana,16.42
+1000000,LODZKIE,2022,kiszka kaszana,15.47
+1200000,MALOPOLSKIE,2022,kiszka kaszana,15.09
+1400000,MAZOWIECKIE,2022,kiszka kaszana,17.17
+1600000,OPOLSKIE,2022,kiszka kaszana,15.61
+1800000,PODKARPACKIE,2022,kiszka kaszana,15.42
+2000000,PODLASKIE,2022,kiszka kaszana,17.38
