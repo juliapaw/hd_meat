@@ -1,0 +1,82 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>hd_meat</Database>
+    <Server>JULIA\MSSQLSERVER_HD</Server>
+    <ConnectionString>Data Source=JULIA\MSSQLSERVER_HD;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>TMHIx/XVwgUYF5eBu1Xj8W8LCd0=17.11.2023 20:26:5117.11.2023 20:26:51</TimeStamp>
+        <ID>
+          <String>Hd Meat N</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>oH4zzpeJfmhTlIeZ13EH0S3p4As=17.11.2023 20:28:5017.11.2023 20:27:13</TimeStamp>
+        <ID>
+          <String>Hd Meat N</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>uP6orV+WJkKepe9J73XYQbM5SLc=17.11.2023 20:30:0917.11.2023 20:29:29</TimeStamp>
+        <ID>
+          <String>Produkt</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>IfOWEupskO2wDS4BL8sxu9StMEc=17.11.2023 20:30:2917.11.2023 20:29:29</TimeStamp>
+        <ID>
+          <String>CZAS</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>dByBTSxCi94j5OqmhVZDz8r/Lfw=17.11.2023 20:30:4617.11.2023 20:29:29</TimeStamp>
+        <ID>
+          <String>Lokalizacja</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>lJHQxFTWNwH9UcHb0uVp7zOHB0g=17.11.2023 20:31:0217.11.2023 20:29:29</TimeStamp>
+        <ID>
+          <String>Jednostka Miary</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>fTueO/hzUJdLp+tEmulJU6ZzSWM=17.11.2023 20:31:0317.11.2023 20:29:28T5kwmb9iM6RzuTzNH6cyKPwgoYg=17.11.2023 20:29:2917.11.2023 20:29:29</TimeStamp>
+        <ID>
+          <String>Hd Meat N</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>kad1vNRqJT4+egnwZymeyMWhgzY=15.11.2023 23:17:3216.11.2023 00:13:02</TimeStamp>
+      <ID>
+        <String>hd_meat</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2023-11-17T19:31:42.91Z</LastDeployed>
+</DeploymentSnapshot>

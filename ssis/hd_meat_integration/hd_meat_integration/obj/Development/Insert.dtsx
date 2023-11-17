@@ -1,0 +1,1024 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="11/17/2023 6:32:30 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="JULIA"
+  DTS:CreatorName="JULIA\jjuli"
+  DTS:DTSID="{F05F9D32-63B5-4408-831C-78203B976623}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5314.0"
+  DTS:LocaleID="1045"
+  DTS:ObjectName="Insert"
+  DTS:PackageType="5"
+  DTS:VersionBuild="17"
+  DTS:VersionGUID="{9842A075-BDD4-4F88-8531-CB4CB465DE25}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Excel Connection Manager]"
+      DTS:CreationName="EXCEL"
+      DTS:DTSID="{CD2A03E4-72F8-4A87-95BD-67CF102C3315}"
+      DTS:ObjectName="Excel Connection Manager">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="0"
+          DTS:ConnectRetryInterval="0"
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\jjuli\Downloads\HD_Meat\CENY_1466_XREL_20231117191229.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Excel Connection Manager 1]"
+      DTS:CreationName="EXCEL"
+      DTS:DTSID="{778AB159-8680-46AE-A47F-C5C8DBEAE10D}"
+      DTS:ObjectName="Excel Connection Manager 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="0"
+          DTS:ConnectRetryInterval="0"
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\jjuli\Downloads\HD_Meat\dane\CENY_1466_XREL_20231117191229.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[JULIA\MSSQLSERVER_HD]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{F534F50D-B248-4BB0-8B57-4AE3066329D2}"
+      DTS:ObjectName="JULIA\MSSQLSERVER_HD">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=JULIA\MSSQLSERVER_HD;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Insert-{F534F50D-B248-4BB0-8B57-4AE3066329D2}JULIA\MSSQLSERVER_HD;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[JULIA\MSSQLSERVER_HD.hd_meat_n]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{41F18297-368C-4AA9-A486-FD7DB7E5A878}"
+      DTS:ObjectName="JULIA\MSSQLSERVER_HD.hd_meat_n">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=JULIA\MSSQLSERVER_HD;Initial Catalog=hd_meat_n;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Insert-{41F18297-368C-4AA9-A486-FD7DB7E5A878}JULIA\MSSQLSERVER_HD.hd_meat_n;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Import xlsx data"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Data Flow Task"
+      DTS:DTSID="{8C6DB47D-463F-4005-A9C2-A871D3030939}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Import xlsx data"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\Import xlsx data\Data Conversion"
+              componentClassID="Microsoft.DataConvert"
+              contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Data Conversion"
+              name="Data Conversion"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Import xlsx data\Data Conversion.Inputs[Data Conversion Input]"
+                  name="Data Conversion Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Inputs[Data Conversion Input].Columns[Nazwa]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Nazwa"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Nazwa]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Inputs[Data Conversion Input].Columns[Rodzaje towarów]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Rodzaje towarów"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Rodzaje towarów]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Inputs[Data Conversion Input].Columns[Kod]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Kod"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Kod]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Inputs[Data Conversion Input].Columns[Rok]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Rok"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Rok]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Inputs[Data Conversion Input].Columns[Wartosc]"
+                      cachedDataType="r8"
+                      cachedName="Wartosc"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Wartosc]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Inputs[Data Conversion Input].Columns[Jednostka miary]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Jednostka miary"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Jednostka miary]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output]"
+                  exclusionGroup="1"
+                  name="Data Conversion Output"
+                  synchronousInputId="Package\Import xlsx data\Data Conversion.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[zmienna]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[zmienna]"
+                      name="zmienna"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Nazwa]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[produkt]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[produkt]"
+                      name="produkt"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Rodzaje towarów]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[kood]"
+                      dataType="decimal"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[kood]"
+                      name="kood"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Kod]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[data]"
+                      dataType="decimal"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[data]"
+                      name="data"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Rok]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[cena]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[cena]"
+                      name="cena"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Wartosc]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[waluta]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[waluta]"
+                      name="waluta"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Jednostka miary]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Data Conversion Error Output"
+                  synchronousInputId="Package\Import xlsx data\Data Conversion.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Import xlsx data\Excel Source"
+              componentClassID="Microsoft.ExcelSource"
+              contactInfo="Excel Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Excel Source"
+              name="Excel Source"
+              usesDispositions="true"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">DANE$</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.String"
+                  description="The variable that contains the SQL command to be executed."
+                  name="SqlCommandVariable"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">0</property>
+                <property
+                  dataType="System.String"
+                  description="The mapping from parameters in the SQL command to variables."
+                  name="ParameterMapping"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Import xlsx data\Excel Source.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[Excel Connection Manager 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[Excel Connection Manager 1]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output]"
+                  name="Excel Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Kod]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Kod]"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Kod]"
+                      name="Kod"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Nazwa]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Nazwa]"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Nazwa]"
+                      name="Nazwa"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Rodzaje towarów]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Rodzaje towarów]"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Rodzaje towarów]"
+                      name="Rodzaje towarów"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Rok]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Rok]"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Rok]"
+                      name="Rok"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Wartosc]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Wartosc]"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Wartosc]"
+                      name="Wartosc"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Jednostka miary]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Jednostka miary]"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Jednostka miary]"
+                      name="Jednostka miary"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Atrybut]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Atrybut]"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Atrybut]"
+                      name="Atrybut"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Kod]"
+                      dataType="wstr"
+                      length="255"
+                      name="Kod" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Nazwa]"
+                      dataType="wstr"
+                      length="255"
+                      name="Nazwa" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Rodzaje towarów]"
+                      dataType="wstr"
+                      length="255"
+                      name="Rodzaje towarów" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Rok]"
+                      dataType="wstr"
+                      length="255"
+                      name="Rok" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Wartosc]"
+                      dataType="r8"
+                      name="Wartosc" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Jednostka miary]"
+                      dataType="wstr"
+                      length="255"
+                      name="Jednostka miary" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].ExternalColumns[Atrybut]"
+                      dataType="wstr"
+                      length="255"
+                      name="Atrybut" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output]"
+                  isErrorOut="true"
+                  name="Excel Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Kod]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Kod]"
+                      name="Kod" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Nazwa]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Nazwa]"
+                      name="Nazwa" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Rodzaje towarów]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Rodzaje towarów]"
+                      name="Rodzaje towarów" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Rok]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Rok]"
+                      name="Rok" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Wartosc]"
+                      dataType="r8"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Wartosc]"
+                      name="Wartosc" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Jednostka miary]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Jednostka miary]"
+                      name="Jednostka miary" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Atrybut]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[Atrybut]"
+                      name="Atrybut" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Import xlsx data\OLE DB Destination"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="OLE DB Destination"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[reformatted_data]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1250</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Import xlsx data\OLE DB Destination.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[JULIA\MSSQLSERVER_HD.hd_meat_n]"
+                  connectionManagerRefId="Package.ConnectionManagers[JULIA\MSSQLSERVER_HD.hd_meat_n]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Kod]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Kod"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Kod]"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Kod]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Nazwa]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Nazwa"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Nazwa]"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Nazwa]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Rodzaje towarów]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Rodzaje towarów"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Rodzaje towarów]"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Rodzaje towarów]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Rok]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Rok"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Rok]"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Rok]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Wartosc]"
+                      cachedDataType="r8"
+                      cachedName="Wartosc"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Wartosc]"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Wartosc]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Jednostka miary]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Jednostka miary"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Jednostka miary]"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Jednostka miary]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Atrybut]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Atrybut"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Atrybut]"
+                      lineageId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output].Columns[Atrybut]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[zmienna]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="zmienna"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[zmienna]"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[zmienna]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[produkt]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="produkt"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[produkt]"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[produkt]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[kood]"
+                      cachedDataType="decimal"
+                      cachedName="kood"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[kood]"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[kood]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[data]"
+                      cachedDataType="decimal"
+                      cachedName="data"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[data]"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[data]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[cena]"
+                      cachedDataType="r8"
+                      cachedName="cena"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[cena]"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[cena]" />
+                    <inputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[waluta]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="waluta"
+                      externalMetadataColumnId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[waluta]"
+                      lineageId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output].Columns[waluta]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Kod]"
+                      dataType="wstr"
+                      length="255"
+                      name="Kod" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Nazwa]"
+                      dataType="wstr"
+                      length="255"
+                      name="Nazwa" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Rodzaje towarów]"
+                      dataType="wstr"
+                      length="255"
+                      name="Rodzaje towarów" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Rok]"
+                      dataType="wstr"
+                      length="255"
+                      name="Rok" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Wartosc]"
+                      dataType="r8"
+                      name="Wartosc" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Jednostka miary]"
+                      dataType="wstr"
+                      length="255"
+                      name="Jednostka miary" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Atrybut]"
+                      dataType="wstr"
+                      length="255"
+                      name="Atrybut" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[zmienna]"
+                      dataType="wstr"
+                      length="255"
+                      name="zmienna" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[produkt]"
+                      dataType="wstr"
+                      length="255"
+                      name="produkt" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[kood]"
+                      dataType="numeric"
+                      name="kood"
+                      precision="28" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[data]"
+                      dataType="numeric"
+                      name="data"
+                      precision="28" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[cena]"
+                      dataType="r8"
+                      name="cena" />
+                    <externalMetadataColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[waluta]"
+                      dataType="wstr"
+                      length="255"
+                      name="waluta" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Import xlsx data\OLE DB Destination.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Import xlsx data\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Import xlsx data\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Import xlsx data\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Import xlsx data.Paths[Data Conversion Output]"
+              endId="Package\Import xlsx data\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              name="Data Conversion Output"
+              startId="Package\Import xlsx data\Data Conversion.Outputs[Data Conversion Output]" />
+            <path
+              refId="Package\Import xlsx data.Paths[Excel Source Output]"
+              endId="Package\Import xlsx data\Data Conversion.Inputs[Data Conversion Input]"
+              name="Excel Source Output"
+              startId="Package\Import xlsx data\Excel Source.Outputs[Excel Source Output]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\INSERT INTO LOKALIZACJA, CZAS, OWOCE, JEDNOSTKA_MIARY"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{0E69E9EA-D251-41AD-B2B5-48B70FF864BF}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="INSERT INTO LOKALIZACJA, CZAS, OWOCE, JEDNOSTKA_MIARY"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{41F18297-368C-4AA9-A486-FD7DB7E5A878}"
+          SQLTask:SqlStatementSource="INSERT INTO [dbo].[lokalizacja]&#xA;SELECT&#xA;    ROW_NUMBER() OVER (ORDER BY [zmienna]) as id,&#xA;    [zmienna] as wojewodztwo&#xA;FROM &#xA;    (SELECT DISTINCT [zmienna] FROM [dbo].[reformatted_data]) as unique_data;&#xA;&#xA;INSERT INTO [dbo].[CZAS]&#xA;SELECT&#xA;    ROW_NUMBER() OVER (ORDER BY [data]) as id,&#xA;    [data] as rok&#xA;FROM &#xA;    (SELECT DISTINCT [data] FROM [dbo].[reformatted_data]) as unique_data;&#xA;&#xA;INSERT INTO [dbo].[jednostka_miary] VALUES&#xA; (1,'kg','kilogramy')&#xA;&#xA;INSERT INTO [dbo].[PRODUKT] &#xA;SELECT&#xA;    ROW_NUMBER() OVER (ORDER BY [produkt]) as id,&#xA;    [produkt] as nazwa_produktu&#xA;FROM &#xA;    (SELECT DISTINCT [produkt] FROM [dbo].[reformatted_data]) as unique_data;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\INSERT INTO TFAKT"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{42486334-ABBB-4BEC-B299-3906A85ADCA9}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="INSERT INTO TFAKT"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{41F18297-368C-4AA9-A486-FD7DB7E5A878}"
+          SQLTask:SqlStatementSource="INSERT INTO tfakt (id_czas, id_lokalizacja, id_produkt, id_jednostka_miary, wartosc)&#xA;SELECT&#xA;    c.id_czas,&#xA;    l.id_lokalizacja,&#xA;    p.id_produkt,&#xA;    jm.id_jednostka_miary,&#xA;    rd.cena&#xA;FROM&#xA;    [dbo].[reformatted_data] rd&#xA;JOIN&#xA;    dbo.CZAS c ON rd.data = c.rok&#xA;JOIN&#xA;    dbo.lokalizacja l ON rd.zmienna = l.wojewodztwo&#xA;JOIN&#xA;    dbo.produkt p ON rd.produkt = p.nazwa_produktu&#xA;JOIN&#xA;    dbo.jednostka_miary jm ON jm.symbol = 'kg'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint]"
+      DTS:CreationName=""
+      DTS:DTSID="{CB5475B1-B67D-41A5-AC08-7E385137545D}"
+      DTS:From="Package\Import xlsx data"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint"
+      DTS:To="Package\INSERT INTO LOKALIZACJA, CZAS, OWOCE, JEDNOSTKA_MIARY" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{3250763B-5E44-44B6-85E9-F8EE76398F15}"
+      DTS:From="Package\INSERT INTO LOKALIZACJA, CZAS, OWOCE, JEDNOSTKA_MIARY"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 1"
+      DTS:To="Package\INSERT INTO TFAKT" />
+  </DTS:PrecedenceConstraints>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="157.333333333334,42.6666666666667"
+          Id="Package\Import xlsx data"
+          TopLeft="39.9999982118607,12.9999993801117" />
+        <NodeLayout
+          Size="388,42.6666666666667"
+          Id="Package\INSERT INTO LOKALIZACJA, CZAS, OWOCE, JEDNOSTKA_MIARY"
+          TopLeft="35.6249984074384,85.7999959087373" />
+        <NodeLayout
+          Size="173.333333333334,42.6666666666667"
+          Id="Package\INSERT INTO TFAKT"
+          TopLeft="29.9999986588955,221.649989430905" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="118.666664878527,55.6666660467784">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="110.958333528911,30.1333298619589"
+              Start="0,0"
+              End="110.958333528911,22.6333298619589">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,11.0666649309795" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,11.0666649309795"
+                    Point2="0,15.0666649309795"
+                    Point3="4,15.0666649309795" />
+                  <mssgle:LineSegment
+                    End="106.958333528911,15.0666649309795" />
+                  <mssgle:CubicBezierSegment
+                    Point1="106.958333528911,15.0666649309795"
+                    Point2="110.958333528911,15.0666649309795"
+                    Point3="110.958333528911,19.0666649309795" />
+                  <mssgle:LineSegment
+                    End="110.958333528911,22.6333298619589" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 1]"
+          TopLeft="229.624998407438,128.466662575404">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-112.958333081876,93.1833268555008"
+              Start="0,0"
+              End="-112.958333081876,85.6833268555008">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,42.5916634277504" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,42.5916634277504"
+                    Point2="0,46.5916634277504"
+                    Point3="-4,46.5916634277504" />
+                  <mssgle:LineSegment
+                    End="-108.958333081876,46.5916634277504" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-108.958333081876,46.5916634277504"
+                    Point2="-112.958333081876,46.5916634277504"
+                    Point3="-112.958333081876,50.5916634277504" />
+                  <mssgle:LineSegment
+                    End="-112.958333081876,85.6833268555008" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+  <TaskHost
+    design-time-name="Package\Import xlsx data">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="139.333333333334,42.6666666666667"
+          Id="Package\Import xlsx data\Excel Source"
+          TopLeft="66.8749970104546,18.1999991321564" />
+        <NodeLayout
+          Size="172,42.6666666666667"
+          Id="Package\Import xlsx data\OLE DB Destination"
+          TopLeft="43.1249980721623,197.599990577698" />
+        <NodeLayout
+          Size="157.333333333334,49.3333333333334"
+          Id="Package\Import xlsx data\Data Conversion"
+          TopLeft="53.1249976251275,102.049995133877" />
+        <EdgeLayout
+          Id="Package\Import xlsx data.Paths[Excel Source Output]"
+          TopLeft="134.166663984458,60.8666657988231">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,41.1833293350539"
+              Start="0,0"
+              End="0,33.6833293350539">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,33.6833293350539" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Import xlsx data.Paths[Data Conversion Output]"
+          TopLeft="130.458331181978,151.38332846721">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,46.2166621104879"
+              Start="0,0"
+              End="0,38.7166621104879">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,38.7166621104879" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Import xlsx data\Excel Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Import xlsx data\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>

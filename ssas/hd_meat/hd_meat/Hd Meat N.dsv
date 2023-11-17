@@ -1,0 +1,172 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="9a36358d-a1e9-4274-978b-ca55b5248a74" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Hd Meat N</ID>
+  <Name>Hd Meat N</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>Hd Meat N</DataSourceID>
+  <Schema>
+    <xs:schema id="Hd_x0020_Meat_x0020_N" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="Hd_x0020_Meat_x0020_N" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="88b56837-cf63-41be-a16b-9bb92d30e73e">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="dbo_CZAS" msprop:DbTableName="CZAS" msprop:FriendlyName="CZAS" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="b44f7386-a843-4ff0-8d52-5ff66fab35a0">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_czas" msprop:FriendlyName="id_czas" msprop:DbColumnName="id_czas" msprop:design-time-name="484bb10a-4e9b-49fb-856d-c5492590eafd">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="14" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="rok" msprop:FriendlyName="rok" msprop:DbColumnName="rok" msprop:design-time-name="455cbca9-d9fa-4150-84e9-08694ce6305e" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="4" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_jednostka_miary" msprop:DbTableName="jednostka_miary" msprop:FriendlyName="jednostka_miary" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="2142ed17-8860-4aeb-b106-590a0bb1aab0">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_jednostka_miary" msprop:FriendlyName="id_jednostka_miary" msprop:DbColumnName="id_jednostka_miary" msprop:design-time-name="59bc5f71-6a9d-4363-84af-958f21edcb8e" type="xs:int" />
+                  <xs:element name="symbol" msprop:FriendlyName="symbol" msprop:DbColumnName="symbol" msprop:design-time-name="90d9d4a0-b55d-48bb-a963-2e2b1cd86bee" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="10" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="nazwa" msprop:FriendlyName="nazwa" msprop:DbColumnName="nazwa" msprop:design-time-name="30838744-47ab-481f-9b94-03caa3225318" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="20" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_lokalizacja" msprop:DbTableName="lokalizacja" msprop:FriendlyName="lokalizacja" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="24e3194b-f352-4cd7-bf9c-b246e36a5182">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_lokalizacja" msprop:FriendlyName="id_lokalizacja" msprop:DbColumnName="id_lokalizacja" msprop:design-time-name="4a452cdb-941d-4896-bf57-0a7339383989" type="xs:int" />
+                  <xs:element name="wojewodztwo" msprop:FriendlyName="wojewodztwo" msprop:DbColumnName="wojewodztwo" msprop:design-time-name="d7d1e8a3-9d4a-46b1-9010-5be8ee6ed01d" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="19" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_produkt" msprop:DbTableName="produkt" msprop:FriendlyName="produkt" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="c1d3ba89-b668-4b59-beb4-9b8af96a2020">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_produkt" msprop:FriendlyName="id_produkt" msprop:DbColumnName="id_produkt" msprop:design-time-name="d8b0f04f-7ff3-47ed-8358-06d626d5990a" type="xs:int" />
+                  <xs:element name="nazwa_produktu" msprop:FriendlyName="nazwa_produktu" msprop:DbColumnName="nazwa_produktu" msprop:design-time-name="66c9a9ed-3068-43dd-bf73-79dcf1b746ad" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_tfakt" msprop:DbTableName="tfakt" msprop:FriendlyName="tfakt" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="b284f4e4-750e-42a2-ab6d-0de366654e3f">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="id_czas" msprop:FriendlyName="id_czas" msprop:DbColumnName="id_czas" msprop:design-time-name="334e52ba-95a7-41ee-8c08-36a73e3d4360" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="14" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="id_lokalizacja" msprop:FriendlyName="id_lokalizacja" msprop:DbColumnName="id_lokalizacja" msprop:design-time-name="844a07e8-e812-4bbd-beef-2ae5de80e814" type="xs:int" minOccurs="0" />
+                  <xs:element name="id_produkt" msprop:FriendlyName="id_produkt" msprop:DbColumnName="id_produkt" msprop:design-time-name="a6ea0272-f62e-4323-9ee6-7bc76593bc67" type="xs:int" minOccurs="0" />
+                  <xs:element name="id_jednostka_miary" msprop:FriendlyName="id_jednostka_miary" msprop:DbColumnName="id_jednostka_miary" msprop:design-time-name="8a254073-9775-435a-aa08-1f7c32234727" type="xs:int" minOccurs="0" />
+                  <xs:element name="wartosc" msprop:FriendlyName="wartosc" msprop:DbColumnName="wartosc" msprop:design-time-name="bf2961d1-5d78-406d-81cb-f01018902ca2" type="xs:decimal" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_CZAS" />
+          <xs:field xpath="id_czas" />
+        </xs:unique>
+        <xs:unique name="dbo_jednostka_miary_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_jednostka_miary" />
+          <xs:field xpath="id_jednostka_miary" />
+        </xs:unique>
+        <xs:unique name="dbo_lokalizacja_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_lokalizacja" />
+          <xs:field xpath="id_lokalizacja" />
+        </xs:unique>
+        <xs:unique name="dbo_produkt_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_produkt" />
+          <xs:field xpath="id_produkt" />
+        </xs:unique>
+        <xs:keyref name="FK__tfakt__id_produk__72C60C4A" refer="dbo_produkt_Constraint1">
+          <xs:selector xpath=".//dbo_tfakt" />
+          <xs:field xpath="id_produkt" />
+        </xs:keyref>
+        <xs:keyref name="FK__tfakt__id_czas__70DDC3D8" refer="Constraint1">
+          <xs:selector xpath=".//dbo_tfakt" />
+          <xs:field xpath="id_czas" />
+        </xs:keyref>
+        <xs:keyref name="FK__tfakt__id_lokali__71D1E811" refer="dbo_lokalizacja_Constraint1">
+          <xs:selector xpath=".//dbo_tfakt" />
+          <xs:field xpath="id_lokalizacja" />
+        </xs:keyref>
+        <xs:keyref name="FK__tfakt__id_jednos__73BA3083" refer="dbo_jednostka_miary_Constraint1">
+          <xs:selector xpath=".//dbo_tfakt" />
+          <xs:field xpath="id_jednostka_miary" />
+        </xs:keyref>
+      </xs:element>
+    </xs:schema>
+    <Hd_x0020_Meat_x0020_N xmlns="" />
+  </Schema>
+</DataSourceView>
