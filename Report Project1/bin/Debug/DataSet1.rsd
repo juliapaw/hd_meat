@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSet Name="DataSet1">
+    <Query>
+      <DataSourceReference>hd_meat</DataSourceReference>
+      <CommandText> SELECT NON EMPTY { [Measures].[Wartosc] } ON COLUMNS, NON EMPTY { ([Lokalizacja].[Wojewodztwo].[Wojewodztwo].ALLMEMBERS * [Produkt].[Nazwa Produktu].[Nazwa Produktu].ALLMEMBERS * [Jednostka Miary].[Nazwa].[Nazwa].ALLMEMBERS * [Jednostka Miary].[Symbol].[Symbol].ALLMEMBERS * [CZAS].[Rok].[Rok].ALLMEMBERS ) } DIMENSION PROPERTIES MEMBER_CAPTION, MEMBER_VALUE, MEMBER_UNIQUE_NAME ON ROWS FROM [HD_Meat] CELL PROPERTIES VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS</CommandText>
+      <rd:DesignerState>
+        <QueryDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/AnalysisServices/QueryDefinition">
+          <CommandType>MDX</CommandType>
+          <QuerySpecification xsi:type="MDXQuerySpecification">
+            <Select>
+              <Items>
+                <Item>
+                  <ID xsi:type="Level">
+                    <DimensionName>Lokalizacja</DimensionName>
+                    <HierarchyName>Wojewodztwo</HierarchyName>
+                    <HierarchyUniqueName>[Lokalizacja].[Wojewodztwo]</HierarchyUniqueName>
+                    <LevelName>Wojewodztwo</LevelName>
+                    <UniqueName>[Lokalizacja].[Wojewodztwo].[Wojewodztwo]</UniqueName>
+                  </ID>
+                  <ItemCaption>Wojewodztwo</ItemCaption>
+                  <UniqueName>true</UniqueName>
+                </Item>
+                <Item>
+                  <ID xsi:type="Level">
+                    <DimensionName>Produkt</DimensionName>
+                    <HierarchyName>Nazwa Produktu</HierarchyName>
+                    <HierarchyUniqueName>[Produkt].[Nazwa Produktu]</HierarchyUniqueName>
+                    <LevelName>Nazwa Produktu</LevelName>
+                    <UniqueName>[Produkt].[Nazwa Produktu].[Nazwa Produktu]</UniqueName>
+                  </ID>
+                  <ItemCaption>Nazwa Produktu</ItemCaption>
+                  <UniqueName>true</UniqueName>
+                </Item>
+                <Item>
+                  <ID xsi:type="Level">
+                    <DimensionName>Jednostka Miary</DimensionName>
+                    <HierarchyName>Nazwa</HierarchyName>
+                    <HierarchyUniqueName>[Jednostka Miary].[Nazwa]</HierarchyUniqueName>
+                    <LevelName>Nazwa</LevelName>
+                    <UniqueName>[Jednostka Miary].[Nazwa].[Nazwa]</UniqueName>
+                  </ID>
+                  <ItemCaption>Nazwa</ItemCaption>
+                  <UniqueName>true</UniqueName>
+                </Item>
+                <Item>
+                  <ID xsi:type="Level">
+                    <DimensionName>Jednostka Miary</DimensionName>
+                    <HierarchyName>Symbol</HierarchyName>
+                    <HierarchyUniqueName>[Jednostka Miary].[Symbol]</HierarchyUniqueName>
+                    <LevelName>Symbol</LevelName>
+                    <UniqueName>[Jednostka Miary].[Symbol].[Symbol]</UniqueName>
+                  </ID>
+                  <ItemCaption>Symbol</ItemCaption>
+                  <UniqueName>true</UniqueName>
+                </Item>
+                <Item>
+                  <ID xsi:type="Level">
+                    <DimensionName>CZAS</DimensionName>
+                    <HierarchyName>Rok</HierarchyName>
+                    <HierarchyUniqueName>[CZAS].[Rok]</HierarchyUniqueName>
+                    <LevelName>Rok</LevelName>
+                    <UniqueName>[CZAS].[Rok].[Rok]</UniqueName>
+                  </ID>
+                  <ItemCaption>Rok</ItemCaption>
+                  <UniqueName>true</UniqueName>
+                </Item>
+                <Item>
+                  <ID xsi:type="Measure">
+                    <MeasureName>Wartosc</MeasureName>
+                    <UniqueName>[Measures].[Wartosc]</UniqueName>
+                  </ID>
+                  <ItemCaption>Wartosc</ItemCaption>
+                  <BackColor>true</BackColor>
+                  <ForeColor>true</ForeColor>
+                  <FontFamily>true</FontFamily>
+                  <FontSize>true</FontSize>
+                  <FontWeight>true</FontWeight>
+                  <FontStyle>true</FontStyle>
+                  <FontDecoration>true</FontDecoration>
+                  <FormattedValue>true</FormattedValue>
+                  <FormatString>true</FormatString>
+                </Item>
+              </Items>
+            </Select>
+            <AutoExecute>false</AutoExecute>
+            <From>HD_Meat</From>
+            <Filter>
+              <FilterItems />
+            </Filter>
+            <Calculations />
+            <Aggregates />
+            <QueryProperties>
+              <IncludeMemberValue>true</IncludeMemberValue>
+            </QueryProperties>
+          </QuerySpecification>
+          <Query>
+            <Statement> SELECT NON EMPTY { [Measures].[Wartosc] } ON COLUMNS, NON EMPTY { ([Lokalizacja].[Wojewodztwo].[Wojewodztwo].ALLMEMBERS * [Produkt].[Nazwa Produktu].[Nazwa Produktu].ALLMEMBERS * [Jednostka Miary].[Nazwa].[Nazwa].ALLMEMBERS * [Jednostka Miary].[Symbol].[Symbol].ALLMEMBERS * [CZAS].[Rok].[Rok].ALLMEMBERS ) } DIMENSION PROPERTIES MEMBER_CAPTION, MEMBER_VALUE, MEMBER_UNIQUE_NAME ON ROWS FROM [HD_Meat] CELL PROPERTIES VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS</Statement>
+            <ParameterDefinitions />
+          </Query>
+        </QueryDefinition>
+      </rd:DesignerState>
+    </Query>
+    <Fields>
+      <Field Name="Wojewodztwo">
+        <DataField>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Field xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Level" UniqueName="[Lokalizacja].[Wojewodztwo].[Wojewodztwo]" /&gt;</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Nazwa_Produktu">
+        <DataField>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Field xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Level" UniqueName="[Produkt].[Nazwa Produktu].[Nazwa Produktu]" /&gt;</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Nazwa">
+        <DataField>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Field xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Level" UniqueName="[Jednostka Miary].[Nazwa].[Nazwa]" /&gt;</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Symbol">
+        <DataField>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Field xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Level" UniqueName="[Jednostka Miary].[Symbol].[Symbol]" /&gt;</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Rok">
+        <DataField>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Field xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Level" UniqueName="[CZAS].[Rok].[Rok]" /&gt;</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Wartosc">
+        <DataField>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Field xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Measure" UniqueName="[Measures].[Wartosc]" /&gt;</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>
